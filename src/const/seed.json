@@ -1,0 +1,3692 @@
+[
+  {
+    "skills": [
+      {
+        "id": "eaf926d2-9061-4b31-be11-cf46fae558a3",
+        "created_at": "2023-09-26T07:24:47.110Z",
+        "updated_at": "2023-09-25T20:20:50.117Z"
+      },
+      {
+        "id": "66d7192a-4486-42fa-b724-3f6d9b2769b9",
+        "created_at": "2023-09-25T23:39:39.300Z",
+        "updated_at": "2023-09-25T10:32:05.474Z"
+      },
+      {
+        "id": "767deed8-e9d7-426f-abff-7aba5a4445af",
+        "created_at": "2023-09-25T07:53:38.317Z",
+        "updated_at": "2023-09-25T23:36:12.258Z"
+      },
+      {
+        "id": "b0c22393-0afd-4c05-a232-6bd85e3b2bac",
+        "created_at": "2023-09-25T08:25:04.598Z",
+        "updated_at": "2023-09-25T16:43:59.317Z"
+      },
+      {
+        "id": "b9ea55e2-70d0-44c4-94f4-58c0c8136d16",
+        "created_at": "2023-09-26T07:12:14.156Z",
+        "updated_at": "2023-09-26T01:02:37.910Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "13b0a5cc-84c3-4786-8733-cd68303fcdce",
+        "created_at": "2023-09-25T10:14:22.939Z",
+        "updated_at": "2023-09-26T04:27:27.776Z",
+        "process_efficiency_score": 0.43896832363680005
+      },
+      {
+        "id": "e4293b8b-41dc-45d6-a39d-903fdcbb672a",
+        "created_at": "2023-09-25T16:29:57.488Z",
+        "updated_at": "2023-09-26T05:46:34.293Z",
+        "process_efficiency_score": 0.6751924764830619
+      },
+      {
+        "id": "94f9a8c9-220d-4141-b1cc-8d65e881a56f",
+        "created_at": "2023-09-25T11:31:15.376Z",
+        "updated_at": "2023-09-25T18:08:50.300Z",
+        "process_efficiency_score": 0.09687102399766445
+      },
+      {
+        "id": "b4c4ebef-3030-4dbc-9155-3da12056519d",
+        "created_at": "2023-09-25T19:50:11.484Z",
+        "updated_at": "2023-09-25T12:08:26.033Z",
+        "process_efficiency_score": 0.438136019743979
+      },
+      {
+        "id": "ae3e122e-2d65-4ba6-a2db-bf17e180bb35",
+        "created_at": "2023-09-26T04:30:47.458Z",
+        "updated_at": "2023-09-25T15:02:44.162Z",
+        "process_efficiency_score": 0.1613536230288446
+      }
+    ],
+    "job_opening": [
+      {
+        "id": "203c4025-361a-4fec-88be-f1084ce052da",
+        "created_at": "2023-09-25T08:05:42.194Z",
+        "updated_at": "2023-09-26T02:46:47.133Z",
+        "salary_range": "$50,000 - $60,000"
+      },
+      {
+        "id": "666d3624-f2ce-4871-9147-8d04f8983a42",
+        "created_at": "2023-09-25T09:54:10.998Z",
+        "updated_at": "2023-09-26T06:12:21.315Z",
+        "salary_range": "$70,000 - $80,000"
+      },
+      {
+        "id": "d4a60215-ebc6-4f0c-8485-7b81b7e0fe63",
+        "created_at": "2023-09-25T09:56:54.505Z",
+        "updated_at": "2023-09-25T12:58:02.520Z",
+        "salary_range": "$90,000 - $100,000"
+      },
+      {
+        "id": "eb65b856-4c21-490e-9c3a-48d3c1137b98",
+        "created_at": "2023-09-25T19:58:07.612Z",
+        "updated_at": "2023-09-25T21:28:10.882Z",
+        "salary_range": "$110,000 - $120,000"
+      },
+      {
+        "id": "6f377511-b35d-4695-a7aa-839e68809f8a",
+        "created_at": "2023-09-26T02:37:43.216Z",
+        "updated_at": "2023-09-26T04:51:38.742Z",
+        "salary_range": "$130,000 - $140,000"
+      }
+    ],
+    "job_application": [
+      {
+        "id": "44499ea9-a6d9-419e-8dea-3c6aa67989b5",
+        "created_at": "2023-09-25T21:29:26.379Z",
+        "updated_at": "2023-09-26T01:56:36.789Z",
+        "application_status": "Pending"
+      },
+      {
+        "id": "49706132-9ae2-4c77-a050-c6c4eebce2a6",
+        "created_at": "2023-09-25T17:57:26.070Z",
+        "updated_at": "2023-09-25T15:28:21.630Z",
+        "application_status": "Reviewed"
+      },
+      {
+        "id": "abf21754-c10b-4d78-bea7-ba16c37dfb49",
+        "created_at": "2023-09-25T19:22:39.707Z",
+        "updated_at": "2023-09-25T21:17:05.251Z",
+        "application_status": "Shortlisted"
+      },
+      {
+        "id": "f10eb49d-2978-4a33-bd7d-ce3a94646897",
+        "created_at": "2023-09-25T14:36:29.578Z",
+        "updated_at": "2023-09-26T06:40:25.799Z",
+        "application_status": "Interview Scheduled"
+      },
+      {
+        "id": "4fd1ee5b-58c9-4488-b632-cc456d9c8ef4",
+        "created_at": "2023-09-25T12:28:26.448Z",
+        "updated_at": "2023-09-26T06:15:32.807Z",
+        "application_status": "Rejected"
+      }
+    ],
+    "interview_feedback": [
+      {
+        "id": "9e5cd8d6-ed33-4c2e-b6bf-f5a16a42845d",
+        "created_at": "2023-09-26T05:51:21.660Z",
+        "updated_at": "2023-09-25T09:55:18.755Z",
+        "interviewer_comments": "Impressive skills"
+      },
+      {
+        "id": "eb18545a-0da0-494c-a78f-363fe51fbbf4",
+        "created_at": "2023-09-26T06:26:59.472Z",
+        "updated_at": "2023-09-25T17:00:20.153Z",
+        "interviewer_comments": "Lacked experience"
+      },
+      {
+        "id": "24b6174d-59ae-403d-8b9b-fc562f2476aa",
+        "created_at": "2023-09-25T13:50:06.616Z",
+        "updated_at": "2023-09-25T22:23:24.774Z",
+        "interviewer_comments": "Great communication"
+      },
+      {
+        "id": "20fdc7ac-6da7-48a2-b724-6dfb930196cb",
+        "created_at": "2023-09-25T17:58:33.588Z",
+        "updated_at": "2023-09-25T12:39:03.383Z",
+        "interviewer_comments": "Strong technical knowledge"
+      },
+      {
+        "id": "3888ae65-b8f8-4912-9f93-632234190631",
+        "created_at": "2023-09-25T07:53:43.760Z",
+        "updated_at": "2023-09-26T07:37:03.327Z",
+        "interviewer_comments": "Needs improvement in problem-solving"
+      }
+    ],
+    "interview": [
+      {
+        "id": "37a134b1-5707-4e51-8533-722825b46060",
+        "created_at": "2023-09-25T14:41:32.620Z",
+        "updated_at": "2023-09-25T17:54:56.788Z",
+        "interview_feedback": "Impressive skills"
+      },
+      {
+        "id": "0d9e8046-46d8-441b-9202-dced9406b7ae",
+        "created_at": "2023-09-25T22:36:02.551Z",
+        "updated_at": "2023-09-26T03:17:04.480Z",
+        "interview_feedback": "Lacked experience"
+      },
+      {
+        "id": "f5281bde-2ded-4f38-ba49-ef830d82002c",
+        "created_at": "2023-09-26T05:16:27.981Z",
+        "updated_at": "2023-09-25T21:03:26.767Z",
+        "interview_feedback": "Great communication"
+      },
+      {
+        "id": "c16862f6-8e11-4a39-951d-16d4def1b86a",
+        "created_at": "2023-09-25T10:06:21.184Z",
+        "updated_at": "2023-09-26T00:46:01.520Z",
+        "interview_feedback": "Strong technical knowledge"
+      },
+      {
+        "id": "51830c51-2b4d-4efe-af19-c80c88557fd3",
+        "created_at": "2023-09-26T01:04:04.557Z",
+        "updated_at": "2023-09-25T10:28:03.144Z",
+        "interview_feedback": "Needs improvement in problem-solving"
+      }
+    ],
+    "hiring_manager": [
+      {
+        "id": "b32d1cc0-8a97-4d7b-a641-51c37f705040",
+        "created_at": "2023-09-25T15:42:25.880Z",
+        "updated_at": "2023-09-26T05:54:12.511Z",
+        "years_of_experience": 450
+      },
+      {
+        "id": "7bc267b3-a264-4b13-a7d6-9d5713f2a8c4",
+        "created_at": "2023-09-25T17:20:13.765Z",
+        "updated_at": "2023-09-25T09:23:34.107Z",
+        "years_of_experience": 76522
+      },
+      {
+        "id": "80eb1a5c-3603-4ff8-be3c-1ad5c4e7f35d",
+        "created_at": "2023-09-25T13:39:30.549Z",
+        "updated_at": "2023-09-25T17:57:07.988Z",
+        "years_of_experience": 48809
+      },
+      {
+        "id": "858e3caa-e8ad-433b-ab4b-6adbfbb23049",
+        "created_at": "2023-09-25T21:42:07.230Z",
+        "updated_at": "2023-09-25T08:22:02.206Z",
+        "years_of_experience": 82335
+      },
+      {
+        "id": "b43c2952-2b13-489d-a0b7-f0385341b7b1",
+        "created_at": "2023-09-26T01:39:47.236Z",
+        "updated_at": "2023-09-25T14:26:42.134Z",
+        "years_of_experience": 27895
+      }
+    ],
+    "candidate_qualifications": [
+      {
+        "id": "6793406a-f463-4d7f-ac56-9a7da17f2786",
+        "created_at": "2023-09-26T03:42:29.954Z",
+        "updated_at": "2023-09-25T22:31:27.849Z"
+      },
+      {
+        "id": "d6a77ef9-aad5-4f06-a7af-37b00337902c",
+        "created_at": "2023-09-25T15:07:33.752Z",
+        "updated_at": "2023-09-26T04:12:50.561Z"
+      },
+      {
+        "id": "128d827a-c0e7-4103-a5fc-7aa7c249ba9a",
+        "created_at": "2023-09-26T05:59:34.668Z",
+        "updated_at": "2023-09-25T22:03:54.423Z"
+      },
+      {
+        "id": "a2763b93-e4e5-4526-af7e-b3bebaae65c6",
+        "created_at": "2023-09-25T18:30:00.500Z",
+        "updated_at": "2023-09-26T01:41:56.867Z"
+      },
+      {
+        "id": "6c837711-98e8-47ff-a6a3-a31cb9cfed40",
+        "created_at": "2023-09-25T20:13:50.730Z",
+        "updated_at": "2023-09-25T20:49:08.194Z"
+      }
+    ],
+    "candidate_experience": [
+      {
+        "id": "c358d2da-475b-46cc-bb3a-a6e97e7347ef",
+        "created_at": "2023-09-26T03:26:39.561Z",
+        "updated_at": "2023-09-25T15:57:44.763Z"
+      },
+      {
+        "id": "1eefeb03-4cee-40d6-a3f8-5d3d86f8b8c7",
+        "created_at": "2023-09-25T10:41:02.413Z",
+        "updated_at": "2023-09-25T09:15:59.702Z"
+      },
+      {
+        "id": "bd67c1fa-cc4a-47f8-83a4-c10f866c4bab",
+        "created_at": "2023-09-25T08:40:27.744Z",
+        "updated_at": "2023-09-26T01:04:19.397Z"
+      },
+      {
+        "id": "01b74c96-4bf3-4488-adbd-090584431ab8",
+        "created_at": "2023-09-25T23:13:23.170Z",
+        "updated_at": "2023-09-26T00:51:44.809Z"
+      },
+      {
+        "id": "0831c145-726a-4aba-8d8f-162d83f01ec2",
+        "created_at": "2023-09-25T23:05:09.836Z",
+        "updated_at": "2023-09-26T03:31:02.150Z"
+      }
+    ],
+    "candidate": [
+      {
+        "id": "de838a4c-1b43-4844-89c8-8c3f0ff219cb",
+        "created_at": "2023-09-25T17:36:18.582Z",
+        "updated_at": "2023-09-25T21:00:58.784Z",
+        "previous_experience": "5 years in software development",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "1234567890"
+      },
+      {
+        "id": "942c0f95-bf79-450d-b62d-713d81c9a1f7",
+        "created_at": "2023-09-26T02:13:39.184Z",
+        "updated_at": "2023-09-25T16:40:58.584Z",
+        "previous_experience": "3 years in marketing",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "mobile": "9876543210"
+      },
+      {
+        "id": "48ce5481-5291-40be-88f8-193644d78f14",
+        "created_at": "2023-09-25T18:33:30.759Z",
+        "updated_at": "2023-09-25T11:52:32.901Z",
+        "previous_experience": "8 years in finance",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "mobile": "5555555555"
+      },
+      {
+        "id": "d22d7820-33ba-4c97-8ba4-92a8b95c86d4",
+        "created_at": "2023-09-25T08:20:02.660Z",
+        "updated_at": "2023-09-26T06:05:00.290Z",
+        "previous_experience": "2 years in customer service",
+        "name": "Sarah Jones",
+        "email": "sarah.jones@example.com",
+        "mobile": "9999999999"
+      },
+      {
+        "id": "2096b96e-c5bf-4862-8167-96db4b0bb7a6",
+        "created_at": "2023-09-25T09:03:05.666Z",
+        "updated_at": "2023-09-25T14:57:59.341Z",
+        "previous_experience": "10 years in project management",
+        "name": "Robert Wilson",
+        "email": "robert.wilson@example.com",
+        "mobile": "7777777777"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "27799632-5d9b-402b-a950-f92375cc8f88",
+        "email": "Marianne.DuBuque@roq.tech",
+        "firstName": "Jamison",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/34.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "895adeb1-4849-43e3-8c57-5d4ec830181a",
+        "email": "August32@roq.tech",
+        "firstName": "Richard",
+        "lastName": "Watsica",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1170.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cadb7060-1469-4d0f-8f41-ce8bbf00ebca",
+        "email": "Lewis.Cremin@roq.tech",
+        "firstName": "Makenna",
+        "lastName": "Herzog",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/674.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5aaf96e7-300d-45f3-a6d5-4b313499f692",
+        "email": "Dariana80@roq.tech",
+        "firstName": "Bailey",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22692360",
+        "tenantId": null
+      },
+      {
+        "reference": "60314a37-0bf6-429a-9ab5-145eeef93d7e",
+        "email": "Mazie65@roq.tech",
+        "firstName": "Lee",
+        "lastName": "Kreiger-Jakubowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/203.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skills": [
+      {
+        "id": "4c4a5859-2142-4d6f-9034-e97d91ffa862",
+        "created_at": "2023-09-25T10:03:58.648Z",
+        "updated_at": "2023-09-25T17:00:38.006Z"
+      },
+      {
+        "id": "685c78fa-0964-4d4a-9f82-61a397acbf84",
+        "created_at": "2023-09-25T18:46:14.432Z",
+        "updated_at": "2023-09-25T12:33:34.023Z"
+      },
+      {
+        "id": "b206ab63-dd20-4e6c-9279-0492b7e3f2f5",
+        "created_at": "2023-09-25T07:59:41.310Z",
+        "updated_at": "2023-09-25T11:19:49.218Z"
+      },
+      {
+        "id": "7b60b775-c0d2-4233-a933-d4b841546387",
+        "created_at": "2023-09-25T17:23:43.865Z",
+        "updated_at": "2023-09-26T02:10:01.280Z"
+      },
+      {
+        "id": "6c6851e8-f9f7-4e0e-9bd5-3975b17c5c2c",
+        "created_at": "2023-09-25T21:11:28.285Z",
+        "updated_at": "2023-09-25T15:11:41.743Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "478e732a-7f2f-42f5-9adb-70cb6b512e1a",
+        "created_at": "2023-09-26T05:04:48.801Z",
+        "updated_at": "2023-09-25T13:25:33.453Z",
+        "process_efficiency_score": 0.6831510302145034
+      },
+      {
+        "id": "52178bdf-6d03-42c9-9a62-004094d4106f",
+        "created_at": "2023-09-26T01:39:57.185Z",
+        "updated_at": "2023-09-25T14:16:05.274Z",
+        "process_efficiency_score": 0.9651943694334477
+      },
+      {
+        "id": "6874d3dc-9f79-44f7-a885-482ee423996b",
+        "created_at": "2023-09-26T03:36:59.472Z",
+        "updated_at": "2023-09-25T16:58:26.038Z",
+        "process_efficiency_score": 0.43614451843313873
+      },
+      {
+        "id": "3c9e851e-f495-4eee-8f4a-53c7dbdd3011",
+        "created_at": "2023-09-25T11:00:58.026Z",
+        "updated_at": "2023-09-26T05:25:58.712Z",
+        "process_efficiency_score": 0.22908732644282281
+      },
+      {
+        "id": "ee6f14d2-1faa-41ec-a828-1dd068d192d6",
+        "created_at": "2023-09-25T23:48:54.153Z",
+        "updated_at": "2023-09-25T10:48:53.251Z",
+        "process_efficiency_score": 0.9540675131138414
+      }
+    ],
+    "job_opening": [
+      {
+        "id": "d9c40a78-5f93-4c46-b72e-25176ff363e6",
+        "created_at": "2023-09-25T16:47:10.058Z",
+        "updated_at": "2023-09-25T09:00:10.346Z",
+        "salary_range": "$50,000 - $60,000"
+      },
+      {
+        "id": "bce0144b-7a40-43f6-a3a0-5633e79f3ca8",
+        "created_at": "2023-09-25T10:25:59.358Z",
+        "updated_at": "2023-09-25T14:55:34.624Z",
+        "salary_range": "$70,000 - $80,000"
+      },
+      {
+        "id": "46a15042-637b-493d-89f9-21252c461fad",
+        "created_at": "2023-09-25T10:01:32.632Z",
+        "updated_at": "2023-09-25T15:28:07.861Z",
+        "salary_range": "$90,000 - $100,000"
+      },
+      {
+        "id": "45cc9db0-0591-4c21-906d-7336ed15408e",
+        "created_at": "2023-09-25T09:46:18.377Z",
+        "updated_at": "2023-09-25T21:08:25.826Z",
+        "salary_range": "$110,000 - $120,000"
+      },
+      {
+        "id": "e60cc66f-1ea9-489f-9d90-a6389bf63494",
+        "created_at": "2023-09-26T04:00:49.295Z",
+        "updated_at": "2023-09-25T12:53:33.444Z",
+        "salary_range": "$130,000 - $140,000"
+      }
+    ],
+    "job_application": [
+      {
+        "id": "a343fcf4-3ae2-45df-841a-dc6d46d2c27a",
+        "created_at": "2023-09-25T10:01:46.348Z",
+        "updated_at": "2023-09-25T16:03:16.182Z",
+        "application_status": "Submitted"
+      },
+      {
+        "id": "f817de77-80f1-4a6e-9be3-0f190cdece81",
+        "created_at": "2023-09-26T02:35:42.095Z",
+        "updated_at": "2023-09-25T15:42:57.175Z",
+        "application_status": "Under Review"
+      },
+      {
+        "id": "129f907e-902a-4ad5-9e3f-19d2af976bcb",
+        "created_at": "2023-09-26T04:36:35.689Z",
+        "updated_at": "2023-09-25T18:25:29.285Z",
+        "application_status": "Shortlisted"
+      },
+      {
+        "id": "524844e3-66c7-444b-bc87-633b917affa1",
+        "created_at": "2023-09-26T01:31:03.889Z",
+        "updated_at": "2023-09-25T17:14:55.592Z",
+        "application_status": "Interview Scheduled"
+      },
+      {
+        "id": "1455708d-d966-4b8e-8db1-1f557b8ca17d",
+        "created_at": "2023-09-25T11:50:00.090Z",
+        "updated_at": "2023-09-25T20:20:34.640Z",
+        "application_status": "Rejected"
+      }
+    ],
+    "interview_feedback": [
+      {
+        "id": "c02f6040-69b1-4dbe-a0ba-9fc6a4e7c707",
+        "created_at": "2023-09-25T08:15:01.649Z",
+        "updated_at": "2023-09-25T21:28:17.595Z",
+        "interviewer_comments": "Strong technical skills"
+      },
+      {
+        "id": "42a58eda-7fa4-4ab1-a9b0-e4afe9389482",
+        "created_at": "2023-09-26T06:18:21.862Z",
+        "updated_at": "2023-09-25T18:31:10.793Z",
+        "interviewer_comments": "Excellent communication"
+      },
+      {
+        "id": "24b07b8a-65e8-4560-b913-f5f01e55f7f5",
+        "created_at": "2023-09-25T12:28:37.101Z",
+        "updated_at": "2023-09-25T11:30:35.764Z",
+        "interviewer_comments": "Lacks experience in XYZ"
+      },
+      {
+        "id": "53dc8193-d612-4224-81d7-3a97a335eae8",
+        "created_at": "2023-09-25T23:14:39.988Z",
+        "updated_at": "2023-09-26T05:45:29.063Z",
+        "interviewer_comments": "Impressive problem-solving abilities"
+      },
+      {
+        "id": "7932eec8-309f-49d6-8eeb-32ad38136e31",
+        "created_at": "2023-09-26T00:36:09.058Z",
+        "updated_at": "2023-09-26T03:45:01.191Z",
+        "interviewer_comments": "Positive attitude"
+      }
+    ],
+    "interview": [
+      {
+        "id": "f5071161-4f2b-4814-89de-29dba93f2999",
+        "created_at": "2023-09-25T15:09:46.620Z",
+        "updated_at": "2023-09-26T03:59:11.279Z",
+        "interview_feedback": "Strong technical skills"
+      },
+      {
+        "id": "dc623f06-4225-4382-ba38-3e6c1fbb515d",
+        "created_at": "2023-09-25T16:21:32.321Z",
+        "updated_at": "2023-09-25T21:39:15.208Z",
+        "interview_feedback": "Excellent communication"
+      },
+      {
+        "id": "1ca83dfa-390a-4e0f-bc97-6c1742cdb697",
+        "created_at": "2023-09-26T03:03:05.224Z",
+        "updated_at": "2023-09-26T04:47:04.052Z",
+        "interview_feedback": "Lacks experience in XYZ"
+      },
+      {
+        "id": "fc9b8688-c014-411d-86c5-40c2ff1d31d2",
+        "created_at": "2023-09-25T11:58:46.528Z",
+        "updated_at": "2023-09-26T02:00:55.423Z",
+        "interview_feedback": "Impressive problem-solving abilities"
+      },
+      {
+        "id": "bd9d7209-dad1-49ef-9108-dae89be57a41",
+        "created_at": "2023-09-25T21:42:47.944Z",
+        "updated_at": "2023-09-25T13:33:18.984Z",
+        "interview_feedback": "Positive attitude"
+      }
+    ],
+    "hiring_manager": [
+      {
+        "id": "85036a07-c20e-4464-b5e1-6c609ab715db",
+        "created_at": "2023-09-25T16:12:50.653Z",
+        "updated_at": "2023-09-25T19:12:14.581Z",
+        "years_of_experience": 20481
+      },
+      {
+        "id": "88d08f95-b1ea-40b4-a0a7-fdc2da968324",
+        "created_at": "2023-09-26T01:08:06.182Z",
+        "updated_at": "2023-09-25T13:36:14.663Z",
+        "years_of_experience": 75026
+      },
+      {
+        "id": "e273325d-4d94-4a46-bc68-55ef2b912a90",
+        "created_at": "2023-09-25T18:41:24.879Z",
+        "updated_at": "2023-09-26T06:20:07.183Z",
+        "years_of_experience": 89342
+      },
+      {
+        "id": "43baba62-f2da-4e1b-a7ff-b9b30bcadbce",
+        "created_at": "2023-09-26T03:23:33.481Z",
+        "updated_at": "2023-09-26T02:25:39.823Z",
+        "years_of_experience": 92243
+      },
+      {
+        "id": "d54d0d53-d5b7-43bd-8c82-83a9272e77a5",
+        "created_at": "2023-09-26T03:02:28.404Z",
+        "updated_at": "2023-09-25T14:07:02.078Z",
+        "years_of_experience": 20994
+      }
+    ],
+    "candidate_qualifications": [
+      {
+        "id": "d850125f-1104-4fa4-8dbf-848564bffaf3",
+        "created_at": "2023-09-25T18:55:57.781Z",
+        "updated_at": "2023-09-26T01:02:44.812Z"
+      },
+      {
+        "id": "1f65bf65-3f67-45b0-a276-a34e9a1d31e1",
+        "created_at": "2023-09-26T02:44:24.958Z",
+        "updated_at": "2023-09-25T18:17:48.508Z"
+      },
+      {
+        "id": "11bfed9c-200d-488a-8f88-bdda602ebdc7",
+        "created_at": "2023-09-26T00:17:55.956Z",
+        "updated_at": "2023-09-25T23:03:45.473Z"
+      },
+      {
+        "id": "bb0b47be-5c25-49aa-be2c-ba11c0c46b69",
+        "created_at": "2023-09-25T17:01:45.038Z",
+        "updated_at": "2023-09-26T05:47:18.282Z"
+      },
+      {
+        "id": "5f59c3d9-56a0-49e3-b90c-0ec0ec0126e0",
+        "created_at": "2023-09-26T04:31:37.320Z",
+        "updated_at": "2023-09-25T23:49:06.438Z"
+      }
+    ],
+    "candidate_experience": [
+      {
+        "id": "6193d08c-51c4-4922-9498-7cc28cfb3133",
+        "created_at": "2023-09-26T02:15:23.112Z",
+        "updated_at": "2023-09-25T10:35:45.982Z"
+      },
+      {
+        "id": "748159a0-5944-43ec-999c-50d064618826",
+        "created_at": "2023-09-26T03:50:48.794Z",
+        "updated_at": "2023-09-26T07:33:10.088Z"
+      },
+      {
+        "id": "09f219c4-3a44-4dc3-93bc-162fc0c2738e",
+        "created_at": "2023-09-25T23:19:53.234Z",
+        "updated_at": "2023-09-26T00:52:27.799Z"
+      },
+      {
+        "id": "9212b8cb-d3e6-4bff-b1df-7f0d4f412683",
+        "created_at": "2023-09-25T20:18:58.501Z",
+        "updated_at": "2023-09-26T06:16:21.902Z"
+      },
+      {
+        "id": "0fcc4e2f-5380-4653-b769-c7aa251d2c20",
+        "created_at": "2023-09-25T13:38:50.239Z",
+        "updated_at": "2023-09-26T02:31:45.350Z"
+      }
+    ],
+    "candidate": [
+      {
+        "id": "318b8e09-51c2-4fbf-ad0c-a0193754f06a",
+        "created_at": "2023-09-25T18:18:17.730Z",
+        "updated_at": "2023-09-26T00:26:05.867Z",
+        "previous_experience": "5 years in software development",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "1234567890"
+      },
+      {
+        "id": "8ff00edd-7883-4a6a-8bd1-0f57784e2bb8",
+        "created_at": "2023-09-26T02:52:48.755Z",
+        "updated_at": "2023-09-25T23:25:47.453Z",
+        "previous_experience": "3 years in marketing",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "mobile": "9876543210"
+      },
+      {
+        "id": "ff7c573f-21de-4b37-ad59-8a8cb53552d8",
+        "created_at": "2023-09-26T04:28:13.678Z",
+        "updated_at": "2023-09-26T01:51:45.621Z",
+        "previous_experience": "10 years in finance",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "mobile": "5555555555"
+      },
+      {
+        "id": "8a06b38f-21f7-4470-96b6-ea508c1c1794",
+        "created_at": "2023-09-25T18:21:34.457Z",
+        "updated_at": "2023-09-25T13:17:39.698Z",
+        "previous_experience": "7 years in healthcare",
+        "name": "Sarah Jones",
+        "email": "sarah.jones@example.com",
+        "mobile": "9999999999"
+      },
+      {
+        "id": "b0adc106-3722-4d7f-9291-7fdf2ea5edd4",
+        "created_at": "2023-09-25T22:12:59.845Z",
+        "updated_at": "2023-09-25T08:59:43.547Z",
+        "previous_experience": "2 years in customer service",
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "mobile": "1111111111"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "83c793eb-872a-4eff-b224-4486060dabca",
+        "email": "Ettie_Braun32@roq.tech",
+        "firstName": "Mallie",
+        "lastName": "Pouros",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/14.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2ef077d6-dcfd-4295-9741-d953665d76e3",
+        "email": "Annabelle.Hamill@roq.tech",
+        "firstName": "Katarina",
+        "lastName": "Pouros",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/15.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c0ab802a-3448-4971-89a6-d75bac50048e",
+        "email": "Graham92@roq.tech",
+        "firstName": "Brandt",
+        "lastName": "Upton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/751.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "472a4753-166c-4adf-9d3a-1dc408fe2ab2",
+        "email": "Caesar.Koch92@roq.tech",
+        "firstName": "Grayson",
+        "lastName": "Feil",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/160.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5e4800c4-1087-47cf-8f70-152830f09c78",
+        "email": "Anjali88@roq.tech",
+        "firstName": "Irwin",
+        "lastName": "Zemlak",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/302.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skills": [
+      {
+        "id": "65f57a3c-55f6-43b9-b980-8a80cb92dc61",
+        "created_at": "2023-09-25T16:24:20.284Z",
+        "updated_at": "2023-09-25T21:40:51.820Z"
+      },
+      {
+        "id": "3061d422-11f9-4c43-b1d6-d71bfa19203e",
+        "created_at": "2023-09-26T05:00:21.149Z",
+        "updated_at": "2023-09-25T23:13:27.009Z"
+      },
+      {
+        "id": "0e878831-2a90-44a2-9436-ad4ee37c1537",
+        "created_at": "2023-09-25T12:33:50.011Z",
+        "updated_at": "2023-09-26T00:07:06.659Z"
+      },
+      {
+        "id": "f12c96b4-0fc5-416f-a5ff-056ffbc901a2",
+        "created_at": "2023-09-25T22:00:36.518Z",
+        "updated_at": "2023-09-25T11:06:13.784Z"
+      },
+      {
+        "id": "dcaa227e-579f-4b83-853a-ac1917f6ca9b",
+        "created_at": "2023-09-26T05:25:44.274Z",
+        "updated_at": "2023-09-25T11:20:32.356Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "afb75c0d-6b1b-4978-92af-4f41a714c8b6",
+        "created_at": "2023-09-26T00:53:50.338Z",
+        "updated_at": "2023-09-26T07:12:57.324Z",
+        "process_efficiency_score": 0.8429051623679698
+      },
+      {
+        "id": "226865f1-e2dc-4934-b73a-4a26c5ec5060",
+        "created_at": "2023-09-25T11:55:50.324Z",
+        "updated_at": "2023-09-25T16:22:34.793Z",
+        "process_efficiency_score": 0.98655198328197
+      },
+      {
+        "id": "33e3d670-54e0-43c7-af58-91c687fe38df",
+        "created_at": "2023-09-25T21:22:44.746Z",
+        "updated_at": "2023-09-25T12:47:49.988Z",
+        "process_efficiency_score": 0.17659426503814757
+      },
+      {
+        "id": "24f92720-e83c-48a5-adc8-a4ee78aea8fa",
+        "created_at": "2023-09-25T18:55:39.098Z",
+        "updated_at": "2023-09-25T23:36:31.146Z",
+        "process_efficiency_score": 0.3617346289101988
+      },
+      {
+        "id": "6a405ef1-d21a-443a-a8d2-31d3f6d8bbdd",
+        "created_at": "2023-09-25T15:13:08.244Z",
+        "updated_at": "2023-09-25T16:21:38.424Z",
+        "process_efficiency_score": 0.6864758864976466
+      }
+    ],
+    "job_opening": [
+      {
+        "id": "a85fbfba-8cce-43d5-8b14-ff2121c0e650",
+        "created_at": "2023-09-25T18:05:31.647Z",
+        "updated_at": "2023-09-25T10:49:31.204Z",
+        "salary_range": "$50,000 - $60,000"
+      },
+      {
+        "id": "4db53c47-9995-417f-8d9f-a8963ca9bb54",
+        "created_at": "2023-09-25T08:32:16.346Z",
+        "updated_at": "2023-09-25T08:25:43.198Z",
+        "salary_range": "$70,000 - $80,000"
+      },
+      {
+        "id": "bbf5552a-fc14-45fd-bc44-7bdd974e5a9b",
+        "created_at": "2023-09-25T07:58:14.351Z",
+        "updated_at": "2023-09-26T07:23:16.570Z",
+        "salary_range": "$90,000 - $100,000"
+      },
+      {
+        "id": "75e124bf-6f67-4f4a-b27e-66e12986286f",
+        "created_at": "2023-09-25T10:03:39.600Z",
+        "updated_at": "2023-09-26T05:19:50.703Z",
+        "salary_range": "$110,000 - $120,000"
+      },
+      {
+        "id": "c3c92a60-b898-4f7f-9277-d671f4723e4c",
+        "created_at": "2023-09-25T23:52:24.552Z",
+        "updated_at": "2023-09-25T10:28:41.942Z",
+        "salary_range": "$130,000 - $140,000"
+      }
+    ],
+    "job_application": [
+      {
+        "id": "2e422b6c-e28c-427d-9c47-b18ee90b1f16",
+        "created_at": "2023-09-25T19:40:50.980Z",
+        "updated_at": "2023-09-25T19:59:32.485Z",
+        "application_status": "Submitted"
+      },
+      {
+        "id": "1b754fb4-a443-458f-a9bd-6ac984c41ce0",
+        "created_at": "2023-09-25T19:14:40.747Z",
+        "updated_at": "2023-09-25T12:13:34.465Z",
+        "application_status": "Under Review"
+      },
+      {
+        "id": "7d567800-346b-4cd4-a916-6e3d42c18bd3",
+        "created_at": "2023-09-26T00:20:17.648Z",
+        "updated_at": "2023-09-25T17:18:35.889Z",
+        "application_status": "Shortlisted"
+      },
+      {
+        "id": "546be112-fdea-47a3-9c3e-fe3d52cc8175",
+        "created_at": "2023-09-25T15:06:50.487Z",
+        "updated_at": "2023-09-25T19:57:27.613Z",
+        "application_status": "Interview Scheduled"
+      },
+      {
+        "id": "02d1b150-f17f-4da0-99eb-db7db54766b0",
+        "created_at": "2023-09-26T07:23:14.663Z",
+        "updated_at": "2023-09-26T07:04:57.867Z",
+        "application_status": "Rejected"
+      }
+    ],
+    "interview_feedback": [
+      {
+        "id": "b8527f4a-1347-4589-af5d-e16ada1ae39b",
+        "created_at": "2023-09-25T13:59:46.768Z",
+        "updated_at": "2023-09-25T19:51:27.973Z",
+        "interviewer_comments": "Candidate performed well in technical round"
+      },
+      {
+        "id": "b7d87ba6-db0b-402e-ae86-cde183dfe9da",
+        "created_at": "2023-09-25T17:51:04.811Z",
+        "updated_at": "2023-09-26T03:16:31.343Z",
+        "interviewer_comments": "Candidate needs to improve communication skills"
+      },
+      {
+        "id": "7c219114-5c92-43f7-9014-3b79637658ee",
+        "created_at": "2023-09-25T21:51:04.992Z",
+        "updated_at": "2023-09-26T02:19:35.318Z",
+        "interviewer_comments": "Candidate has good problem-solving abilities"
+      },
+      {
+        "id": "a1cf0d96-db1d-4e4a-b687-17ce72f99167",
+        "created_at": "2023-09-25T17:06:37.380Z",
+        "updated_at": "2023-09-25T18:15:15.810Z",
+        "interviewer_comments": "Candidate lacks experience in required technologies"
+      },
+      {
+        "id": "ee2e3283-26db-4073-9c17-74edc9513705",
+        "created_at": "2023-09-25T09:11:29.825Z",
+        "updated_at": "2023-09-25T21:11:00.689Z",
+        "interviewer_comments": "Candidate demonstrated strong leadership qualities"
+      }
+    ],
+    "interview": [
+      {
+        "id": "5aee5c7c-da51-4952-9b86-9589bca34d8f",
+        "created_at": "2023-09-26T04:48:27.274Z",
+        "updated_at": "2023-09-25T16:35:35.645Z",
+        "interview_feedback": "Candidate performed well in technical round"
+      },
+      {
+        "id": "6e997f6a-273d-458b-9e69-3e2bd12fb97c",
+        "created_at": "2023-09-25T20:09:33.963Z",
+        "updated_at": "2023-09-26T06:45:32.772Z",
+        "interview_feedback": "Candidate needs to improve communication skills"
+      },
+      {
+        "id": "d52d2c69-b708-404a-acc6-473dbc233077",
+        "created_at": "2023-09-25T11:22:47.572Z",
+        "updated_at": "2023-09-25T08:58:06.429Z",
+        "interview_feedback": "Candidate has good problem-solving abilities"
+      },
+      {
+        "id": "1afb1843-d38b-446d-8ae6-03d2d63785ff",
+        "created_at": "2023-09-25T18:33:46.769Z",
+        "updated_at": "2023-09-26T01:03:08.920Z",
+        "interview_feedback": "Candidate lacks experience in required technologies"
+      },
+      {
+        "id": "a7da00f0-4542-4a6a-9eb2-dca994034520",
+        "created_at": "2023-09-26T04:50:07.079Z",
+        "updated_at": "2023-09-26T03:56:26.700Z",
+        "interview_feedback": "Candidate demonstrated strong leadership qualities"
+      }
+    ],
+    "hiring_manager": [
+      {
+        "id": "00a1de8a-0d43-4216-97b7-88e8c60f2669",
+        "created_at": "2023-09-25T08:01:02.845Z",
+        "updated_at": "2023-09-25T14:44:54.417Z",
+        "years_of_experience": 34643
+      },
+      {
+        "id": "fca031c0-3da2-463a-93ca-4e43feec9884",
+        "created_at": "2023-09-25T15:58:22.437Z",
+        "updated_at": "2023-09-25T08:33:15.052Z",
+        "years_of_experience": 41147
+      },
+      {
+        "id": "e0e53df2-52a5-4e0e-b133-74d595d3a688",
+        "created_at": "2023-09-25T13:00:56.009Z",
+        "updated_at": "2023-09-25T19:40:59.202Z",
+        "years_of_experience": 38210
+      },
+      {
+        "id": "caa3aec9-4318-4184-a44a-8f64f3e16bae",
+        "created_at": "2023-09-25T14:29:34.397Z",
+        "updated_at": "2023-09-26T02:11:09.502Z",
+        "years_of_experience": 20638
+      },
+      {
+        "id": "321c8f8f-4e05-4d70-af48-5a57ab76a0fa",
+        "created_at": "2023-09-25T10:59:52.168Z",
+        "updated_at": "2023-09-26T00:17:22.356Z",
+        "years_of_experience": 13067
+      }
+    ],
+    "candidate_qualifications": [
+      {
+        "id": "ee31341b-9782-4829-a787-d6f51a8ca2b6",
+        "created_at": "2023-09-25T18:33:31.932Z",
+        "updated_at": "2023-09-25T12:42:51.873Z"
+      },
+      {
+        "id": "a02928f7-49d6-4030-a27d-4a8fc607ed67",
+        "created_at": "2023-09-25T18:27:15.440Z",
+        "updated_at": "2023-09-25T12:05:50.110Z"
+      },
+      {
+        "id": "f0441bdc-6f7a-4565-b84f-51dea69b0d2e",
+        "created_at": "2023-09-25T15:12:30.142Z",
+        "updated_at": "2023-09-25T10:59:17.807Z"
+      },
+      {
+        "id": "d8bd5999-3fb7-48d3-9809-9eeb12d11be0",
+        "created_at": "2023-09-25T11:38:08.038Z",
+        "updated_at": "2023-09-25T19:30:08.526Z"
+      },
+      {
+        "id": "2a8cab7d-8b42-47ed-b10a-30fd2237079e",
+        "created_at": "2023-09-26T01:57:15.552Z",
+        "updated_at": "2023-09-25T19:59:17.094Z"
+      }
+    ],
+    "candidate_experience": [
+      {
+        "id": "6f2d3974-a59b-4459-92f4-783fba2c843c",
+        "created_at": "2023-09-25T20:28:21.529Z",
+        "updated_at": "2023-09-25T20:24:21.285Z"
+      },
+      {
+        "id": "bfdd863f-acaa-460d-93ce-7ef98aad7b20",
+        "created_at": "2023-09-25T14:58:47.591Z",
+        "updated_at": "2023-09-26T02:02:17.427Z"
+      },
+      {
+        "id": "c799438c-45f2-4e79-91c2-0e90b7a1e048",
+        "created_at": "2023-09-25T23:41:13.579Z",
+        "updated_at": "2023-09-25T10:17:31.829Z"
+      },
+      {
+        "id": "03c826fe-f21b-4168-a697-b54b0cd13ebd",
+        "created_at": "2023-09-25T23:57:14.733Z",
+        "updated_at": "2023-09-25T12:44:36.683Z"
+      },
+      {
+        "id": "3422a962-f9e9-4125-b1d5-cf5db917180b",
+        "created_at": "2023-09-25T12:42:04.165Z",
+        "updated_at": "2023-09-26T04:30:01.657Z"
+      }
+    ],
+    "candidate": [
+      {
+        "id": "8be4e4ed-9231-47fa-b2e3-cbf14d1d75a0",
+        "created_at": "2023-09-25T15:51:50.245Z",
+        "updated_at": "2023-09-25T11:49:33.979Z",
+        "previous_experience": "5 years of software development experience",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "123-456-7890"
+      },
+      {
+        "id": "f88a1ea3-a83d-44c9-92a4-2fca09b75e03",
+        "created_at": "2023-09-25T14:59:53.682Z",
+        "updated_at": "2023-09-25T21:30:21.354Z",
+        "previous_experience": "2 years of marketing experience",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "mobile": "987-654-3210"
+      },
+      {
+        "id": "8d979fb6-11cd-484e-bcf7-763854841f32",
+        "created_at": "2023-09-25T20:27:52.064Z",
+        "updated_at": "2023-09-26T06:05:05.802Z",
+        "previous_experience": "10 years of project management experience",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "mobile": "555-555-5555"
+      },
+      {
+        "id": "405d0d28-c44c-40c2-85ad-61a269ae9aaf",
+        "created_at": "2023-09-25T15:13:00.778Z",
+        "updated_at": "2023-09-25T09:46:57.255Z",
+        "previous_experience": "3 years of customer service experience",
+        "name": "Sarah Jones",
+        "email": "sarah.jones@example.com",
+        "mobile": "111-222-3333"
+      },
+      {
+        "id": "2d3fe97e-3915-4720-bf08-7d8f7af417df",
+        "created_at": "2023-09-25T20:04:06.577Z",
+        "updated_at": "2023-09-26T05:57:53.444Z",
+        "previous_experience": "8 years of sales experience",
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "mobile": "444-555-6666"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9f3d3ac6-8f28-4e38-a82b-c5b0e4d8eab8",
+        "email": "Leonardo_Turcotte@roq.tech",
+        "firstName": "Lazaro",
+        "lastName": "Raynor",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/11.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "975fe992-5802-4b51-a79b-a5247e3e015b",
+        "email": "Garth_Denesik@roq.tech",
+        "firstName": "Herman",
+        "lastName": "Wiza",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1201.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1b8a604c-d0fe-499c-a5aa-71ae6739755a",
+        "email": "Stephania.Kautzer@roq.tech",
+        "firstName": "Jeffery",
+        "lastName": "Ankunding",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/376.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b5a737cd-b8f3-47f5-80b0-3187d2b32114",
+        "email": "Adell.Champlin-Conn78@roq.tech",
+        "firstName": "Henri",
+        "lastName": "Gusikowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/643.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4dac770a-b6f8-4317-a5db-d7dc408538b2",
+        "email": "Eli_Hermiston@roq.tech",
+        "firstName": "Elijah",
+        "lastName": "McKenzie",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/594.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skills": [
+      {
+        "id": "6954fbf3-d247-472e-8eb9-c1c8c82e7662",
+        "created_at": "2023-09-25T12:46:29.528Z",
+        "updated_at": "2023-09-25T19:00:51.084Z"
+      },
+      {
+        "id": "d3753a0d-06c7-4c2d-bc2f-298d16a28c1f",
+        "created_at": "2023-09-25T20:06:28.061Z",
+        "updated_at": "2023-09-26T01:48:44.298Z"
+      },
+      {
+        "id": "627b2ad8-8ea4-48c5-abd1-90385d30c3f4",
+        "created_at": "2023-09-25T17:31:40.429Z",
+        "updated_at": "2023-09-26T06:12:05.979Z"
+      },
+      {
+        "id": "e24776e3-7379-4f4e-b1cf-c02ece03dc21",
+        "created_at": "2023-09-26T03:32:07.624Z",
+        "updated_at": "2023-09-25T13:22:32.474Z"
+      },
+      {
+        "id": "af913ba4-c42b-4c6a-b4cf-8ccefd6d2992",
+        "created_at": "2023-09-26T01:49:16.600Z",
+        "updated_at": "2023-09-25T13:40:28.460Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "e9dbd0e9-c57b-4eca-a286-83b260f71958",
+        "created_at": "2023-09-25T08:44:33.468Z",
+        "updated_at": "2023-09-25T19:35:36.737Z",
+        "process_efficiency_score": 0.6347230535466224
+      },
+      {
+        "id": "91eb1bc4-9842-42d6-b15b-ff58a2f82aa3",
+        "created_at": "2023-09-26T03:32:23.809Z",
+        "updated_at": "2023-09-25T14:30:13.223Z",
+        "process_efficiency_score": 0.16872131149284542
+      },
+      {
+        "id": "0d43b70e-8fb5-49aa-b840-b47e750b8bf2",
+        "created_at": "2023-09-26T07:45:55.915Z",
+        "updated_at": "2023-09-25T13:41:40.292Z",
+        "process_efficiency_score": 0.6037026233971119
+      },
+      {
+        "id": "8a00435c-6ad4-4b8a-82cf-0067d3ff76e7",
+        "created_at": "2023-09-26T06:36:13.398Z",
+        "updated_at": "2023-09-26T04:06:52.777Z",
+        "process_efficiency_score": 0.7149222022853792
+      },
+      {
+        "id": "f36017c4-7915-460c-b388-a3d2035e5f39",
+        "created_at": "2023-09-25T22:38:21.427Z",
+        "updated_at": "2023-09-26T05:55:16.938Z",
+        "process_efficiency_score": 0.545007970649749
+      }
+    ],
+    "job_opening": [
+      {
+        "id": "28cc1f98-249e-4d6e-8df1-67b5bb9f2737",
+        "created_at": "2023-09-25T11:04:44.453Z",
+        "updated_at": "2023-09-25T22:48:09.156Z",
+        "salary_range": "$50,000 - $60,000"
+      },
+      {
+        "id": "54148ad4-95ff-4d62-8ee6-57db566b320e",
+        "created_at": "2023-09-25T09:53:22.145Z",
+        "updated_at": "2023-09-25T13:38:24.455Z",
+        "salary_range": "$70,000 - $80,000"
+      },
+      {
+        "id": "a3ee279a-005d-4f9a-ae0e-78ff0fed5fd6",
+        "created_at": "2023-09-26T03:56:43.716Z",
+        "updated_at": "2023-09-26T02:22:24.380Z",
+        "salary_range": "$90,000 - $100,000"
+      },
+      {
+        "id": "667da85b-9125-4deb-9c6c-eba6e9dcd7d9",
+        "created_at": "2023-09-26T02:09:11.439Z",
+        "updated_at": "2023-09-25T18:07:20.697Z",
+        "salary_range": "$110,000 - $120,000"
+      },
+      {
+        "id": "8eae1534-e1af-43e6-995b-845cc5128df1",
+        "created_at": "2023-09-26T05:21:49.494Z",
+        "updated_at": "2023-09-25T14:59:53.262Z",
+        "salary_range": "$130,000 - $140,000"
+      }
+    ],
+    "job_application": [
+      {
+        "id": "df93650b-4ea3-4eb0-bd60-7429e76361aa",
+        "created_at": "2023-09-26T02:22:21.352Z",
+        "updated_at": "2023-09-25T22:32:24.952Z",
+        "application_status": "Submitted"
+      },
+      {
+        "id": "37038bd4-7370-4ea6-8fdf-348cd55c92cb",
+        "created_at": "2023-09-26T01:39:07.689Z",
+        "updated_at": "2023-09-25T13:33:58.389Z",
+        "application_status": "Under Review"
+      },
+      {
+        "id": "3114a19a-1a13-4931-9b32-6ed177d22fff",
+        "created_at": "2023-09-25T11:34:01.012Z",
+        "updated_at": "2023-09-25T17:51:43.142Z",
+        "application_status": "Shortlisted"
+      },
+      {
+        "id": "d0dd1ddd-0c34-4244-b23a-2e8e68222945",
+        "created_at": "2023-09-25T22:09:35.791Z",
+        "updated_at": "2023-09-25T10:36:52.399Z",
+        "application_status": "Interview Scheduled"
+      },
+      {
+        "id": "be605c13-3aac-44ab-99db-d9aee2319ecd",
+        "created_at": "2023-09-25T16:52:46.188Z",
+        "updated_at": "2023-09-25T08:41:00.952Z",
+        "application_status": "Rejected"
+      }
+    ],
+    "interview_feedback": [
+      {
+        "id": "c85e5355-7a57-41e1-b3ce-e1222a736244",
+        "created_at": "2023-09-25T16:27:04.523Z",
+        "updated_at": "2023-09-26T03:58:50.915Z",
+        "interviewer_comments": "Candidate performed well in technical round"
+      },
+      {
+        "id": "55c804af-1f91-4b4e-bc08-aecf91c4f76f",
+        "created_at": "2023-09-26T03:16:33.297Z",
+        "updated_at": "2023-09-25T23:59:27.553Z",
+        "interviewer_comments": "Candidate needs to improve communication skills"
+      },
+      {
+        "id": "a81a48ae-d674-4055-b089-e802ca3811df",
+        "created_at": "2023-09-26T01:53:00.931Z",
+        "updated_at": "2023-09-26T03:11:45.482Z",
+        "interviewer_comments": "Candidate demonstrated strong problem-solving abilities"
+      },
+      {
+        "id": "7ba67dcc-6520-4c78-9323-c5b1bc0131f3",
+        "created_at": "2023-09-25T12:46:57.809Z",
+        "updated_at": "2023-09-25T12:48:27.316Z",
+        "interviewer_comments": "Candidate showed great enthusiasm for the role"
+      },
+      {
+        "id": "928edfae-1768-4025-8906-41d5599e9932",
+        "created_at": "2023-09-25T23:16:04.208Z",
+        "updated_at": "2023-09-26T02:31:01.143Z",
+        "interviewer_comments": "Candidate lacked experience in a specific area"
+      }
+    ],
+    "interview": [
+      {
+        "id": "9b758211-dafb-4deb-9d29-928b8b17333c",
+        "created_at": "2023-09-25T17:53:41.423Z",
+        "updated_at": "2023-09-26T07:21:50.118Z",
+        "interview_feedback": "Positive"
+      },
+      {
+        "id": "59e132c7-8c15-4b75-8804-b4bcd58c6fbe",
+        "created_at": "2023-09-26T06:34:47.150Z",
+        "updated_at": "2023-09-25T20:35:17.950Z",
+        "interview_feedback": "Neutral"
+      },
+      {
+        "id": "7bbebba3-5d05-4e86-a97a-a1c0a69027bd",
+        "created_at": "2023-09-25T14:32:39.885Z",
+        "updated_at": "2023-09-25T18:20:44.793Z",
+        "interview_feedback": "Positive"
+      },
+      {
+        "id": "0a6c86a7-2ef1-4731-ad7d-71f7d672ca43",
+        "created_at": "2023-09-26T00:05:39.039Z",
+        "updated_at": "2023-09-26T02:07:26.943Z",
+        "interview_feedback": "Negative"
+      },
+      {
+        "id": "6b687d6a-92b3-4d8d-820e-4748735daa03",
+        "created_at": "2023-09-25T12:00:04.615Z",
+        "updated_at": "2023-09-25T14:02:46.864Z",
+        "interview_feedback": "Positive"
+      }
+    ],
+    "hiring_manager": [
+      {
+        "id": "f5e1e396-7030-46f5-9a41-6db403a5fbfc",
+        "created_at": "2023-09-25T19:00:45.437Z",
+        "updated_at": "2023-09-25T10:25:52.685Z",
+        "years_of_experience": 26403
+      },
+      {
+        "id": "dca7eb8e-f781-4242-8e28-839a6d19fcf0",
+        "created_at": "2023-09-25T22:12:18.082Z",
+        "updated_at": "2023-09-25T21:38:17.908Z",
+        "years_of_experience": 80323
+      },
+      {
+        "id": "bc884595-e7c1-4507-abc9-f34e4d9090b3",
+        "created_at": "2023-09-25T12:05:26.181Z",
+        "updated_at": "2023-09-25T12:57:15.514Z",
+        "years_of_experience": 12730
+      },
+      {
+        "id": "2cf44523-61bb-4a1c-a12f-cf4ababfd8fe",
+        "created_at": "2023-09-25T18:06:13.030Z",
+        "updated_at": "2023-09-25T22:20:54.115Z",
+        "years_of_experience": 22051
+      },
+      {
+        "id": "b8f32b2c-c205-4990-8427-a0cc7a3293eb",
+        "created_at": "2023-09-25T16:11:27.243Z",
+        "updated_at": "2023-09-25T09:51:45.289Z",
+        "years_of_experience": 64156
+      }
+    ],
+    "candidate_qualifications": [
+      {
+        "id": "e63dcc3d-4f0b-43d5-9d42-2c7aa78bd992",
+        "created_at": "2023-09-26T03:51:57.178Z",
+        "updated_at": "2023-09-25T10:27:19.625Z"
+      },
+      {
+        "id": "47af39c6-08c7-4f8c-9e8d-e11c37dcf23c",
+        "created_at": "2023-09-25T13:10:22.431Z",
+        "updated_at": "2023-09-25T19:22:51.188Z"
+      },
+      {
+        "id": "50e6f074-dd36-4b6b-91f5-7927f53326fe",
+        "created_at": "2023-09-25T16:17:46.458Z",
+        "updated_at": "2023-09-25T18:50:32.783Z"
+      },
+      {
+        "id": "61088558-798a-4bcd-93d0-2a53d11c9541",
+        "created_at": "2023-09-25T19:49:41.300Z",
+        "updated_at": "2023-09-25T19:49:57.660Z"
+      },
+      {
+        "id": "864136c7-7303-4088-8e04-58b060f2447e",
+        "created_at": "2023-09-25T10:30:13.442Z",
+        "updated_at": "2023-09-25T18:21:14.235Z"
+      }
+    ],
+    "candidate_experience": [
+      {
+        "id": "4743222c-0f57-44eb-8b72-eea2ec16b735",
+        "created_at": "2023-09-25T20:31:48.459Z",
+        "updated_at": "2023-09-25T11:35:54.748Z"
+      },
+      {
+        "id": "ed4eb72d-3a9d-47a6-a800-afbbd318ee9f",
+        "created_at": "2023-09-25T14:09:27.032Z",
+        "updated_at": "2023-09-25T11:20:13.857Z"
+      },
+      {
+        "id": "792db9ff-6f2a-4294-b03a-0978c68c7fa2",
+        "created_at": "2023-09-25T09:06:52.301Z",
+        "updated_at": "2023-09-25T23:22:38.375Z"
+      },
+      {
+        "id": "71a5d484-72b7-4074-8c64-6e0352bd652a",
+        "created_at": "2023-09-26T03:25:30.803Z",
+        "updated_at": "2023-09-25T14:11:41.535Z"
+      },
+      {
+        "id": "0c8434b8-7639-429b-9318-161c7033f58a",
+        "created_at": "2023-09-26T04:20:52.674Z",
+        "updated_at": "2023-09-26T00:33:34.424Z"
+      }
+    ],
+    "candidate": [
+      {
+        "id": "e98f36d2-c319-4504-bf1e-78e6bdbb7ddc",
+        "created_at": "2023-09-25T17:15:38.695Z",
+        "updated_at": "2023-09-25T10:37:17.404Z",
+        "previous_experience": "5 years in software development",
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "mobile": "1234567890"
+      },
+      {
+        "id": "53329674-6868-492e-8893-07f381bfd2cf",
+        "created_at": "2023-09-25T18:55:05.490Z",
+        "updated_at": "2023-09-26T05:20:03.574Z",
+        "previous_experience": "3 years in marketing",
+        "name": "Jane Johnson",
+        "email": "jane.johnson@example.com",
+        "mobile": "0987654321"
+      },
+      {
+        "id": "d383d1e7-868c-4154-947f-006dfd3e52af",
+        "created_at": "2023-09-25T22:28:35.970Z",
+        "updated_at": "2023-09-25T20:51:07.333Z",
+        "previous_experience": "10 years in finance",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "mobile": "9876543210"
+      },
+      {
+        "id": "f7e03c56-4a65-4cb8-ade1-1ead6aa9d569",
+        "created_at": "2023-09-25T17:28:09.014Z",
+        "updated_at": "2023-09-25T13:34:15.546Z",
+        "previous_experience": "2 years in customer service",
+        "name": "Sarah Davis",
+        "email": "sarah.davis@example.com",
+        "mobile": "0123456789"
+      },
+      {
+        "id": "3888e507-136c-4ecc-86ff-8b16e6768666",
+        "created_at": "2023-09-26T01:53:28.782Z",
+        "updated_at": "2023-09-26T06:36:04.790Z",
+        "previous_experience": "7 years in project management",
+        "name": "Robert Wilson",
+        "email": "robert.wilson@example.com",
+        "mobile": "8765432109"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8b5f3110-6acf-46a5-944d-f4c270fc9f6f",
+        "email": "Ibrahim.Steuber32@roq.tech",
+        "firstName": "Jevon",
+        "lastName": "Corkery",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/466.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "534c10d0-52fa-4008-95e5-71a04f6cd410",
+        "email": "Telly_Witting12@roq.tech",
+        "firstName": "Laney",
+        "lastName": "Franecki-Jacobs",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98827634",
+        "tenantId": null
+      },
+      {
+        "reference": "ad3142d3-ce94-41f0-a08b-c0a53a5cd5b0",
+        "email": "Royce.Marvin52@roq.tech",
+        "firstName": "Janet",
+        "lastName": "Gusikowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43592370",
+        "tenantId": null
+      },
+      {
+        "reference": "e966a051-fb4f-406b-bbbd-6f4c8e553e82",
+        "email": "Eve.Carter@roq.tech",
+        "firstName": "Barry",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/324.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9fe6ece3-f977-49d5-b75b-8d0fd5423f83",
+        "email": "Howell_Hackett@roq.tech",
+        "firstName": "Lambert",
+        "lastName": "O'Conner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5067803",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skills": [
+      {
+        "id": "80931492-83f6-45f3-a13a-c940bc5dbbe0",
+        "created_at": "2023-09-25T21:16:00.472Z",
+        "updated_at": "2023-09-26T07:16:14.692Z"
+      },
+      {
+        "id": "673e37c9-dd44-4d23-85f4-46566617e9ac",
+        "created_at": "2023-09-25T20:39:39.127Z",
+        "updated_at": "2023-09-25T18:18:04.857Z"
+      },
+      {
+        "id": "2e54a946-532b-4233-aab4-724711eb6df4",
+        "created_at": "2023-09-26T01:33:17.555Z",
+        "updated_at": "2023-09-25T12:01:51.171Z"
+      },
+      {
+        "id": "61201029-abb0-4690-b104-3a9cda6a1cdc",
+        "created_at": "2023-09-25T08:48:46.658Z",
+        "updated_at": "2023-09-25T16:32:45.958Z"
+      },
+      {
+        "id": "c3a91c3c-b584-432d-9d8b-56fb31350dfc",
+        "created_at": "2023-09-25T21:09:35.229Z",
+        "updated_at": "2023-09-25T19:02:19.895Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "1f336bcd-3b8c-49f2-8a23-0a539ca5d414",
+        "created_at": "2023-09-26T06:20:56.467Z",
+        "updated_at": "2023-09-25T08:03:36.359Z",
+        "process_efficiency_score": 0.16357098100706935
+      },
+      {
+        "id": "dc8487c9-7517-4cee-9bd2-e5d1e4811894",
+        "created_at": "2023-09-25T18:46:53.618Z",
+        "updated_at": "2023-09-25T08:50:16.282Z",
+        "process_efficiency_score": 0.43257249845191836
+      },
+      {
+        "id": "8d9ffc5c-391f-4745-b741-ccde67cbff53",
+        "created_at": "2023-09-26T03:35:20.993Z",
+        "updated_at": "2023-09-25T12:17:14.533Z",
+        "process_efficiency_score": 0.9657610771246254
+      },
+      {
+        "id": "dd7e9681-33ba-4172-9b57-cca27810d079",
+        "created_at": "2023-09-25T23:43:34.943Z",
+        "updated_at": "2023-09-25T18:27:12.523Z",
+        "process_efficiency_score": 0.4076868847478181
+      },
+      {
+        "id": "991ce477-5a37-49f9-86fc-cde9cedc0f30",
+        "created_at": "2023-09-25T09:42:25.991Z",
+        "updated_at": "2023-09-26T00:05:36.910Z",
+        "process_efficiency_score": 0.08461676957085729
+      }
+    ],
+    "job_opening": [
+      {
+        "id": "719a4465-6b71-4ecc-acd4-b2a1b88115a0",
+        "created_at": "2023-09-26T04:21:43.175Z",
+        "updated_at": "2023-09-25T15:12:39.691Z",
+        "salary_range": "$50,000 - $60,000"
+      },
+      {
+        "id": "1252b80a-ea5d-43af-b114-37f6d0647637",
+        "created_at": "2023-09-25T16:17:32.898Z",
+        "updated_at": "2023-09-26T04:13:52.334Z",
+        "salary_range": "$70,000 - $80,000"
+      },
+      {
+        "id": "2a557b55-d9bb-432e-b729-06912135edde",
+        "created_at": "2023-09-25T20:56:40.676Z",
+        "updated_at": "2023-09-25T19:16:39.151Z",
+        "salary_range": "$90,000 - $100,000"
+      },
+      {
+        "id": "6bc3989d-1b75-48af-a0d2-eca7c60aa83d",
+        "created_at": "2023-09-25T21:00:18.015Z",
+        "updated_at": "2023-09-25T18:52:55.940Z",
+        "salary_range": "$110,000 - $120,000"
+      },
+      {
+        "id": "e531d0e9-8dde-45c9-943c-7b45f2fe4913",
+        "created_at": "2023-09-25T23:34:36.801Z",
+        "updated_at": "2023-09-25T08:20:35.827Z",
+        "salary_range": "$130,000 - $140,000"
+      }
+    ],
+    "job_application": [
+      {
+        "id": "0210c6f4-130f-450a-af40-d18907dd64fb",
+        "created_at": "2023-09-26T02:28:48.195Z",
+        "updated_at": "2023-09-25T12:33:46.164Z",
+        "application_status": "Pending"
+      },
+      {
+        "id": "6fa41397-e4bb-4df0-941e-f6ac5684c153",
+        "created_at": "2023-09-25T22:47:52.827Z",
+        "updated_at": "2023-09-26T01:55:31.011Z",
+        "application_status": "Reviewed"
+      },
+      {
+        "id": "4111e271-4ba9-457e-a335-8076b21cef2d",
+        "created_at": "2023-09-25T08:47:59.459Z",
+        "updated_at": "2023-09-25T22:12:42.552Z",
+        "application_status": "Shortlisted"
+      },
+      {
+        "id": "1ad8bf3a-858f-482a-b9f6-2fa8a9976a51",
+        "created_at": "2023-09-25T14:23:50.597Z",
+        "updated_at": "2023-09-26T00:26:52.228Z",
+        "application_status": "Rejected"
+      },
+      {
+        "id": "73e89f97-3e27-427b-8fc0-0a4ee997d4f6",
+        "created_at": "2023-09-26T00:45:14.835Z",
+        "updated_at": "2023-09-25T23:38:16.474Z",
+        "application_status": "Hired"
+      }
+    ],
+    "interview_feedback": [
+      {
+        "id": "fef2d0c5-a7cf-49a8-b4f2-81d2253a98b1",
+        "created_at": "2023-09-26T00:08:02.274Z",
+        "updated_at": "2023-09-26T02:45:06.193Z",
+        "interviewer_comments": "Impressive skills"
+      },
+      {
+        "id": "6b1ca756-0043-4bf9-94b4-3636ec9a1cb1",
+        "created_at": "2023-09-26T04:43:00.797Z",
+        "updated_at": "2023-09-25T23:28:58.368Z",
+        "interviewer_comments": "Lacks experience"
+      },
+      {
+        "id": "e3aab41b-7c15-4084-8710-fc3b38eb8731",
+        "created_at": "2023-09-25T22:41:32.352Z",
+        "updated_at": "2023-09-26T02:47:07.033Z",
+        "interviewer_comments": "Great communication"
+      },
+      {
+        "id": "f89752d9-5d35-4c29-b194-d81e71a67358",
+        "created_at": "2023-09-25T09:14:50.527Z",
+        "updated_at": "2023-09-25T11:40:29.765Z",
+        "interviewer_comments": "Needs improvement"
+      },
+      {
+        "id": "505146c3-a5fb-47cd-8001-ed7eea7946ce",
+        "created_at": "2023-09-26T02:03:48.508Z",
+        "updated_at": "2023-09-25T21:50:38.278Z",
+        "interviewer_comments": "Highly recommended"
+      }
+    ],
+    "interview": [
+      {
+        "id": "72974ee5-b322-4744-aee1-c38e2a427708",
+        "created_at": "2023-09-26T06:11:08.660Z",
+        "updated_at": "2023-09-25T22:49:38.501Z",
+        "interview_feedback": "Impressive skills"
+      },
+      {
+        "id": "923b04a6-3178-4bbe-8400-e0d4fa894c08",
+        "created_at": "2023-09-25T18:11:27.769Z",
+        "updated_at": "2023-09-25T22:50:07.980Z",
+        "interview_feedback": "Lacks experience"
+      },
+      {
+        "id": "1e25b2b1-9cad-486e-b8ff-7be8f4b0cee1",
+        "created_at": "2023-09-25T09:46:56.935Z",
+        "updated_at": "2023-09-26T00:34:36.726Z",
+        "interview_feedback": "Great communication"
+      },
+      {
+        "id": "8b37e815-4a74-4590-bdda-bfe96b2f682b",
+        "created_at": "2023-09-26T02:08:01.716Z",
+        "updated_at": "2023-09-25T15:14:02.503Z",
+        "interview_feedback": "Needs improvement"
+      },
+      {
+        "id": "953fe65e-0d22-465d-b6ba-17ca9893ecf8",
+        "created_at": "2023-09-25T10:54:04.848Z",
+        "updated_at": "2023-09-25T23:04:09.343Z",
+        "interview_feedback": "Highly recommended"
+      }
+    ],
+    "hiring_manager": [
+      {
+        "id": "4fac1eae-e061-4d71-8d22-6a3c6e178860",
+        "created_at": "2023-09-25T07:57:14.485Z",
+        "updated_at": "2023-09-25T11:45:52.497Z",
+        "years_of_experience": 88088
+      },
+      {
+        "id": "b95f1b2a-9aa8-4a6e-a1bc-88ac6fe9279d",
+        "created_at": "2023-09-26T07:33:23.306Z",
+        "updated_at": "2023-09-25T19:33:07.836Z",
+        "years_of_experience": 14792
+      },
+      {
+        "id": "ddf2b501-0374-41d4-96e2-c9c0192adf77",
+        "created_at": "2023-09-25T09:56:05.782Z",
+        "updated_at": "2023-09-26T02:16:45.147Z",
+        "years_of_experience": 66456
+      },
+      {
+        "id": "3255c73e-64d4-4dea-8902-3ccf975ada58",
+        "created_at": "2023-09-25T17:55:09.872Z",
+        "updated_at": "2023-09-26T04:00:27.294Z",
+        "years_of_experience": 77463
+      },
+      {
+        "id": "1b48c7b3-8bde-4dec-9f42-265e66131c78",
+        "created_at": "2023-09-25T08:54:15.394Z",
+        "updated_at": "2023-09-26T01:49:43.548Z",
+        "years_of_experience": 16353
+      }
+    ],
+    "candidate_qualifications": [
+      {
+        "id": "41ce3b22-abc8-49dc-81e0-dd6526775132",
+        "created_at": "2023-09-25T16:00:43.333Z",
+        "updated_at": "2023-09-25T22:46:28.267Z"
+      },
+      {
+        "id": "9340d964-6167-404e-bd18-666c11cbe8f4",
+        "created_at": "2023-09-25T09:35:46.764Z",
+        "updated_at": "2023-09-25T20:59:14.904Z"
+      },
+      {
+        "id": "6acbb43c-f026-4370-b2a4-dafe73695e88",
+        "created_at": "2023-09-26T05:11:55.090Z",
+        "updated_at": "2023-09-26T00:07:23.448Z"
+      },
+      {
+        "id": "3224683a-3e9d-4f0d-8064-a0902d82b961",
+        "created_at": "2023-09-25T08:07:19.338Z",
+        "updated_at": "2023-09-25T21:51:28.129Z"
+      },
+      {
+        "id": "59ce7c78-7deb-4128-aa95-c587636ec3b7",
+        "created_at": "2023-09-25T17:20:47.375Z",
+        "updated_at": "2023-09-25T19:19:26.600Z"
+      }
+    ],
+    "candidate_experience": [
+      {
+        "id": "dabaa047-c328-4ddb-9bf1-7a4195468be7",
+        "created_at": "2023-09-25T19:42:33.992Z",
+        "updated_at": "2023-09-25T17:43:16.551Z"
+      },
+      {
+        "id": "4f31f5d1-21ea-4e8c-bb20-2d014f9a417e",
+        "created_at": "2023-09-25T11:55:27.070Z",
+        "updated_at": "2023-09-25T13:14:36.553Z"
+      },
+      {
+        "id": "b88a1e7c-934a-4637-a2a1-134a468e06a2",
+        "created_at": "2023-09-25T23:34:55.415Z",
+        "updated_at": "2023-09-25T14:50:25.369Z"
+      },
+      {
+        "id": "0b5e0b65-4e7a-4a6a-b7c0-20a70b93e675",
+        "created_at": "2023-09-26T00:21:56.717Z",
+        "updated_at": "2023-09-26T06:06:45.920Z"
+      },
+      {
+        "id": "71d8a266-4fb9-43b4-9cc5-8c01981ab8de",
+        "created_at": "2023-09-26T06:09:31.678Z",
+        "updated_at": "2023-09-26T01:01:45.590Z"
+      }
+    ],
+    "candidate": [
+      {
+        "id": "1033767b-3cbe-4abd-9dd3-47efff2a6c79",
+        "created_at": "2023-09-25T16:13:59.233Z",
+        "updated_at": "2023-09-26T04:59:26.953Z",
+        "previous_experience": "5 years in software development",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "+1 123-456-7890"
+      },
+      {
+        "id": "2336ec6b-fb6d-4a13-b978-158ecadf382d",
+        "created_at": "2023-09-26T03:04:51.321Z",
+        "updated_at": "2023-09-25T20:31:21.136Z",
+        "previous_experience": "3 years in marketing",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "mobile": "+1 987-654-3210"
+      },
+      {
+        "id": "087b2988-9854-447b-a58d-2d61223dfb97",
+        "created_at": "2023-09-25T08:04:23.618Z",
+        "updated_at": "2023-09-25T09:11:52.724Z",
+        "previous_experience": "10 years in finance",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "mobile": "+1 555-123-4567"
+      },
+      {
+        "id": "4ced7110-6684-40ac-a3a2-9b3fe0782b6f",
+        "created_at": "2023-09-25T17:34:06.970Z",
+        "updated_at": "2023-09-25T16:10:01.663Z",
+        "previous_experience": "2 years in sales",
+        "name": "Sarah Jones",
+        "email": "sarah.jones@example.com",
+        "mobile": "+1 999-888-7777"
+      },
+      {
+        "id": "3e2f4a2e-2582-4fc7-8d5f-9b04582baac8",
+        "created_at": "2023-09-25T15:06:36.630Z",
+        "updated_at": "2023-09-25T10:18:02.990Z",
+        "previous_experience": "8 years in human resources",
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "mobile": "+1 777-555-4444"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7bdfe17f-6856-4ee8-9233-16725eedfba8",
+        "email": "Berta.Dibbert@roq.tech",
+        "firstName": "Genevieve",
+        "lastName": "Kunze",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1245.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "410cc0a2-e647-43b4-8954-70f987890d00",
+        "email": "Ezekiel.Cormier@roq.tech",
+        "firstName": "Lilyan",
+        "lastName": "Abernathy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/33.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "48d1ee17-90ab-4bd8-8bda-f868cab6c321",
+        "email": "Orion15@roq.tech",
+        "firstName": "Elroy",
+        "lastName": "Skiles-Koss",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/882.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f71fc40e-f739-4337-8efd-b7ef94a22347",
+        "email": "Walter_Weissnat76@roq.tech",
+        "firstName": "Esther",
+        "lastName": "Bartoletti",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40761863",
+        "tenantId": null
+      },
+      {
+        "reference": "22564cf9-b9f0-487b-bee6-14d2cc39b187",
+        "email": "Malinda51@roq.tech",
+        "firstName": "Reba",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/175.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skills": [
+      {
+        "id": "8ea59e3c-16de-4809-a8a4-060ca2e32167",
+        "created_at": "2023-09-25T09:01:26.771Z",
+        "updated_at": "2023-09-26T00:59:02.426Z"
+      },
+      {
+        "id": "60a38267-60ac-46e4-a821-c6dc697499c3",
+        "created_at": "2023-09-25T18:06:25.533Z",
+        "updated_at": "2023-09-25T11:32:33.578Z"
+      },
+      {
+        "id": "6a32ac74-dee1-4722-b1ed-96238186d016",
+        "created_at": "2023-09-25T09:56:56.258Z",
+        "updated_at": "2023-09-25T15:42:03.418Z"
+      },
+      {
+        "id": "1b46efd1-17d0-4aaa-ae35-b0bfd732f355",
+        "created_at": "2023-09-25T12:49:42.908Z",
+        "updated_at": "2023-09-25T16:05:07.004Z"
+      },
+      {
+        "id": "09033660-4ba0-4bda-8af0-e3b5563ab510",
+        "created_at": "2023-09-25T12:17:18.934Z",
+        "updated_at": "2023-09-26T03:18:40.917Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "0ae7ff03-cd30-44cf-8524-0a9e60802b97",
+        "created_at": "2023-09-25T21:23:11.399Z",
+        "updated_at": "2023-09-25T19:58:19.280Z",
+        "process_efficiency_score": 0.7852235471364111
+      },
+      {
+        "id": "a264879a-dec9-4609-8387-0c748cca9302",
+        "created_at": "2023-09-25T15:50:46.049Z",
+        "updated_at": "2023-09-25T12:13:50.742Z",
+        "process_efficiency_score": 0.20555225224234164
+      },
+      {
+        "id": "797517bf-7b40-4b15-9f11-6e06bcf80e50",
+        "created_at": "2023-09-25T16:06:40.108Z",
+        "updated_at": "2023-09-25T10:52:30.123Z",
+        "process_efficiency_score": 0.6168283803854138
+      },
+      {
+        "id": "a41037bf-d0b3-4285-bb8f-e5542416f5b6",
+        "created_at": "2023-09-25T12:10:36.711Z",
+        "updated_at": "2023-09-25T08:17:00.041Z",
+        "process_efficiency_score": 0.6816715183667839
+      },
+      {
+        "id": "f67b44a7-74bf-478b-8b49-6f330891aa04",
+        "created_at": "2023-09-25T17:58:33.363Z",
+        "updated_at": "2023-09-25T20:43:16.504Z",
+        "process_efficiency_score": 0.6326339456718415
+      }
+    ],
+    "job_opening": [
+      {
+        "id": "b91de932-74b4-43f5-a984-d13fb8ed9634",
+        "created_at": "2023-09-25T20:40:52.635Z",
+        "updated_at": "2023-09-25T11:10:25.810Z",
+        "salary_range": "$50,000 - $60,000"
+      },
+      {
+        "id": "c9ef854f-0d6b-4df8-a603-5f11d121966a",
+        "created_at": "2023-09-26T05:55:43.672Z",
+        "updated_at": "2023-09-26T06:25:58.081Z",
+        "salary_range": "$70,000 - $80,000"
+      },
+      {
+        "id": "d2f586b7-6340-44ba-b5d6-0ac67c084314",
+        "created_at": "2023-09-25T22:06:36.424Z",
+        "updated_at": "2023-09-25T09:15:47.806Z",
+        "salary_range": "$90,000 - $100,000"
+      },
+      {
+        "id": "3ab4fa8c-a83f-4cd8-9837-53160f4d09eb",
+        "created_at": "2023-09-26T01:41:18.581Z",
+        "updated_at": "2023-09-25T17:19:48.999Z",
+        "salary_range": "$120,000 - $130,000"
+      },
+      {
+        "id": "31adc5db-33cb-4bbb-b6e3-a6daef4b0814",
+        "created_at": "2023-09-25T21:43:47.497Z",
+        "updated_at": "2023-09-25T21:08:38.586Z",
+        "salary_range": "$150,000 - $160,000"
+      }
+    ],
+    "job_application": [
+      {
+        "id": "1a3e8517-2b7b-4ccd-915d-71ad99a53afe",
+        "created_at": "2023-09-25T16:26:50.499Z",
+        "updated_at": "2023-09-25T15:23:45.459Z",
+        "application_status": "Pending"
+      },
+      {
+        "id": "58daaaf4-180d-4620-a4a8-a74d8ba6f9e8",
+        "created_at": "2023-09-25T13:01:06.461Z",
+        "updated_at": "2023-09-25T14:48:07.413Z",
+        "application_status": "Reviewed"
+      },
+      {
+        "id": "9f38be61-6fe0-4294-99a9-a8892cc1f3ad",
+        "created_at": "2023-09-25T23:18:38.747Z",
+        "updated_at": "2023-09-26T07:17:47.190Z",
+        "application_status": "Shortlisted"
+      },
+      {
+        "id": "efbf3dbb-912a-454d-a19c-a5ed68f7a98f",
+        "created_at": "2023-09-25T11:40:47.107Z",
+        "updated_at": "2023-09-25T15:50:13.545Z",
+        "application_status": "Rejected"
+      },
+      {
+        "id": "3d2581ab-8811-40a5-be26-50a5b0a9d70b",
+        "created_at": "2023-09-26T05:46:32.734Z",
+        "updated_at": "2023-09-25T20:49:55.292Z",
+        "application_status": "Offered"
+      }
+    ],
+    "interview_feedback": [
+      {
+        "id": "eea0adb8-f949-4d3a-80b5-97a76bcc1625",
+        "created_at": "2023-09-25T11:04:36.121Z",
+        "updated_at": "2023-09-25T17:06:34.352Z",
+        "interviewer_comments": "Strong technical skills"
+      },
+      {
+        "id": "32ce3a85-4572-4c73-a5cb-4cd2fa790f02",
+        "created_at": "2023-09-26T07:17:16.497Z",
+        "updated_at": "2023-09-25T21:44:09.696Z",
+        "interviewer_comments": "Excellent communication"
+      },
+      {
+        "id": "b10549b3-f9fc-4044-9e97-211efad8f6f9",
+        "created_at": "2023-09-26T06:39:40.143Z",
+        "updated_at": "2023-09-26T01:30:16.576Z",
+        "interviewer_comments": "Lacks experience"
+      },
+      {
+        "id": "2c029823-e276-4e7d-b4c1-583cc28b3f03",
+        "created_at": "2023-09-25T22:45:18.733Z",
+        "updated_at": "2023-09-25T20:55:52.723Z",
+        "interviewer_comments": "Impressive problem-solving"
+      },
+      {
+        "id": "cdf438ef-2d17-4a78-8c6d-b852048306d4",
+        "created_at": "2023-09-26T01:15:44.960Z",
+        "updated_at": "2023-09-25T09:32:41.714Z",
+        "interviewer_comments": "Great team player"
+      }
+    ],
+    "interview": [
+      {
+        "id": "4a328a1f-1e0d-4f40-9726-5d0678a5e6ac",
+        "created_at": "2023-09-25T17:17:04.850Z",
+        "updated_at": "2023-09-25T08:36:06.714Z",
+        "interview_feedback": "Strong technical skills"
+      },
+      {
+        "id": "bcfbe5af-5b88-4931-94d1-3c4c7bf47f1e",
+        "created_at": "2023-09-25T10:00:54.709Z",
+        "updated_at": "2023-09-25T16:52:33.156Z",
+        "interview_feedback": "Excellent communication"
+      },
+      {
+        "id": "7511fe60-4a9a-491c-b56a-5ddb2a947ba7",
+        "created_at": "2023-09-25T20:53:23.642Z",
+        "updated_at": "2023-09-26T02:46:31.530Z",
+        "interview_feedback": "Lacks experience"
+      },
+      {
+        "id": "467d86cc-0ef4-4f29-a3cf-f34f2e9a9e8d",
+        "created_at": "2023-09-26T04:01:31.260Z",
+        "updated_at": "2023-09-25T18:14:00.734Z",
+        "interview_feedback": "Impressive problem-solving"
+      },
+      {
+        "id": "2aa992b6-b12d-46fb-af27-48f2fb785017",
+        "created_at": "2023-09-26T03:11:27.270Z",
+        "updated_at": "2023-09-25T13:25:40.092Z",
+        "interview_feedback": "Great team player"
+      }
+    ],
+    "hiring_manager": [
+      {
+        "id": "e8250f37-368f-4ea1-bcae-592ed0330fd2",
+        "created_at": "2023-09-25T19:31:03.164Z",
+        "updated_at": "2023-09-26T05:08:50.292Z",
+        "years_of_experience": 6137
+      },
+      {
+        "id": "07cb9a97-d67d-4e1f-b2dc-d69a2d6a62bc",
+        "created_at": "2023-09-25T11:16:44.644Z",
+        "updated_at": "2023-09-25T20:11:40.354Z",
+        "years_of_experience": 44983
+      },
+      {
+        "id": "d239a6a2-430e-4408-a84e-c6e19f838f0a",
+        "created_at": "2023-09-25T14:03:29.338Z",
+        "updated_at": "2023-09-25T15:23:34.925Z",
+        "years_of_experience": 96565
+      },
+      {
+        "id": "8251ebab-180c-4883-9a21-beedb3b63151",
+        "created_at": "2023-09-26T02:07:51.571Z",
+        "updated_at": "2023-09-26T07:07:15.027Z",
+        "years_of_experience": 68200
+      },
+      {
+        "id": "31e91d81-7d99-4b67-86ba-5aa6ef74f9cc",
+        "created_at": "2023-09-25T12:28:36.871Z",
+        "updated_at": "2023-09-26T07:29:35.871Z",
+        "years_of_experience": 10278
+      }
+    ],
+    "candidate_qualifications": [
+      {
+        "id": "6b2f4050-b7c8-48b7-94ff-558795acd704",
+        "created_at": "2023-09-25T16:50:38.210Z",
+        "updated_at": "2023-09-25T11:56:43.484Z"
+      },
+      {
+        "id": "78ccb415-a95b-4d3b-b0c0-799b4d10935a",
+        "created_at": "2023-09-25T15:29:48.337Z",
+        "updated_at": "2023-09-26T02:10:28.480Z"
+      },
+      {
+        "id": "8d2d091a-3544-428a-861e-9cb690761f37",
+        "created_at": "2023-09-25T16:40:44.265Z",
+        "updated_at": "2023-09-25T20:26:21.827Z"
+      },
+      {
+        "id": "e503f445-57f6-4b7c-89de-48fa842729c3",
+        "created_at": "2023-09-25T11:27:15.314Z",
+        "updated_at": "2023-09-25T17:55:55.182Z"
+      },
+      {
+        "id": "21ad3ab6-9ef6-4d73-adbb-1aaf7c35091d",
+        "created_at": "2023-09-25T16:33:57.324Z",
+        "updated_at": "2023-09-25T10:55:55.260Z"
+      }
+    ],
+    "candidate_experience": [
+      {
+        "id": "09ad6920-8aef-4e6d-8620-5845ea2d1b95",
+        "created_at": "2023-09-26T02:41:28.589Z",
+        "updated_at": "2023-09-25T15:58:23.451Z"
+      },
+      {
+        "id": "aa4bdab7-67b1-4067-ba7d-9305fdab81cd",
+        "created_at": "2023-09-25T16:26:52.371Z",
+        "updated_at": "2023-09-26T02:07:02.104Z"
+      },
+      {
+        "id": "dbede29c-5e37-4c75-a468-c164382b9b72",
+        "created_at": "2023-09-26T00:49:59.229Z",
+        "updated_at": "2023-09-25T09:19:46.496Z"
+      },
+      {
+        "id": "b66f8452-e250-47d6-a350-49f65aa2f913",
+        "created_at": "2023-09-25T11:29:39.529Z",
+        "updated_at": "2023-09-26T04:46:50.708Z"
+      },
+      {
+        "id": "bd61bc06-c37c-419c-a59d-cc7bd985eb2c",
+        "created_at": "2023-09-25T13:10:52.858Z",
+        "updated_at": "2023-09-25T08:55:45.387Z"
+      }
+    ],
+    "candidate": [
+      {
+        "id": "9551f0b9-1b91-4954-98b1-def12833045e",
+        "created_at": "2023-09-25T12:45:58.502Z",
+        "updated_at": "2023-09-26T00:37:14.033Z",
+        "previous_experience": "5 years in software development",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "123-456-7890"
+      },
+      {
+        "id": "685244b2-a3a4-4ba4-810a-666b877f3cdc",
+        "created_at": "2023-09-25T17:46:02.753Z",
+        "updated_at": "2023-09-25T23:49:17.753Z",
+        "previous_experience": "3 years in marketing",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "mobile": "987-654-3210"
+      },
+      {
+        "id": "f0a44352-2d52-4577-901a-7e810ca2f2f2",
+        "created_at": "2023-09-26T06:46:44.207Z",
+        "updated_at": "2023-09-25T08:51:54.132Z",
+        "previous_experience": "10 years in finance",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "mobile": "555-555-5555"
+      },
+      {
+        "id": "d209419c-81aa-4d30-88fd-3449f4baf86e",
+        "created_at": "2023-09-26T04:06:56.810Z",
+        "updated_at": "2023-09-25T22:44:15.073Z",
+        "previous_experience": "2 years in healthcare",
+        "name": "Sarah Jones",
+        "email": "sarah.jones@example.com",
+        "mobile": "111-222-3333"
+      },
+      {
+        "id": "b5097681-49a9-4963-83c1-65f5df6a6d20",
+        "created_at": "2023-09-25T16:51:43.739Z",
+        "updated_at": "2023-09-25T12:59:04.027Z",
+        "previous_experience": "7 years in sales",
+        "name": "Robert Wilson",
+        "email": "robert.wilson@example.com",
+        "mobile": "444-444-4444"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6478c5b7-add3-4caa-9736-4bfd8e860fe8",
+        "email": "Providenci57@roq.tech",
+        "firstName": "Zella",
+        "lastName": "Nitzsche",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/445.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "36f85b65-7051-4288-9a41-cb098dcdbac2",
+        "email": "Deontae.Spencer94@roq.tech",
+        "firstName": "Rae",
+        "lastName": "Cummings",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/846.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fd637b61-8a8e-48db-bb38-ee6100a8a4e5",
+        "email": "Sammy.Labadie@roq.tech",
+        "firstName": "Gillian",
+        "lastName": "Boyle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/792.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1bf31a73-8575-4f85-8c44-967047c5ae45",
+        "email": "Jamel95@roq.tech",
+        "firstName": "Ruth",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/952.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "42a9bf0a-5477-4e4c-b3fc-38b4543a5555",
+        "email": "Gino54@roq.tech",
+        "firstName": "Ophelia",
+        "lastName": "Zboncak",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50112796",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skills": [
+      {
+        "id": "b33f12d1-5849-42b1-a9e7-5dd25b88f1a5",
+        "created_at": "2023-09-25T17:24:24.019Z",
+        "updated_at": "2023-09-26T04:50:16.371Z"
+      },
+      {
+        "id": "60c63b43-e7fb-4a6b-8bf5-58e0908b71e5",
+        "created_at": "2023-09-25T16:50:36.588Z",
+        "updated_at": "2023-09-25T19:38:22.489Z"
+      },
+      {
+        "id": "8c1200ba-5a55-4290-88b5-8d8a84235afd",
+        "created_at": "2023-09-26T00:23:29.206Z",
+        "updated_at": "2023-09-25T13:38:41.540Z"
+      },
+      {
+        "id": "5b32e8f5-2c6c-4015-9a9d-918d1dfad974",
+        "created_at": "2023-09-25T15:29:35.456Z",
+        "updated_at": "2023-09-26T07:26:00.294Z"
+      },
+      {
+        "id": "b050d306-cd76-4b66-8d1b-ab93eb45b367",
+        "created_at": "2023-09-26T02:33:30.944Z",
+        "updated_at": "2023-09-26T03:49:40.310Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "0ebf42bb-bac3-44b5-b231-36ce0dea21cf",
+        "created_at": "2023-09-25T14:31:34.515Z",
+        "updated_at": "2023-09-25T14:00:50.025Z",
+        "process_efficiency_score": 0.6149283044505864
+      },
+      {
+        "id": "52572660-c6a6-4363-b398-acaa0dadfea0",
+        "created_at": "2023-09-25T09:12:38.072Z",
+        "updated_at": "2023-09-26T05:36:19.039Z",
+        "process_efficiency_score": 0.4250271839555353
+      },
+      {
+        "id": "4a6e6c38-9a8d-464a-a953-d9d486314faf",
+        "created_at": "2023-09-25T09:02:17.393Z",
+        "updated_at": "2023-09-26T00:55:46.438Z",
+        "process_efficiency_score": 0.26987644867040217
+      },
+      {
+        "id": "b1dc1f69-6b8e-4890-bb84-269bb4de64ab",
+        "created_at": "2023-09-26T00:07:03.327Z",
+        "updated_at": "2023-09-25T22:12:41.760Z",
+        "process_efficiency_score": 0.39749277546070516
+      },
+      {
+        "id": "915eec39-6f27-4d0e-b5af-6ba1a2689659",
+        "created_at": "2023-09-25T21:09:36.782Z",
+        "updated_at": "2023-09-25T08:33:35.828Z",
+        "process_efficiency_score": 0.8084168103523552
+      }
+    ],
+    "job_opening": [
+      {
+        "id": "aed6066c-d8c7-490d-9c4a-5bbb88f7f222",
+        "created_at": "2023-09-25T12:59:21.596Z",
+        "updated_at": "2023-09-26T04:50:24.355Z",
+        "salary_range": "$50,000 - $60,000"
+      },
+      {
+        "id": "a78ad243-61d3-494d-a3c6-f62fe3493097",
+        "created_at": "2023-09-25T08:51:47.306Z",
+        "updated_at": "2023-09-26T02:12:44.954Z",
+        "salary_range": "$70,000 - $80,000"
+      },
+      {
+        "id": "34514cb7-2f43-454d-a04c-6539444e8ae1",
+        "created_at": "2023-09-25T15:22:37.292Z",
+        "updated_at": "2023-09-26T02:53:14.426Z",
+        "salary_range": "$90,000 - $100,000"
+      },
+      {
+        "id": "d1d8b886-989c-4edb-8f9a-1724875a848a",
+        "created_at": "2023-09-25T19:43:26.828Z",
+        "updated_at": "2023-09-25T18:58:35.393Z",
+        "salary_range": "$110,000 - $120,000"
+      },
+      {
+        "id": "20381853-5ad9-45b2-b85b-a52e6518c076",
+        "created_at": "2023-09-26T00:05:07.776Z",
+        "updated_at": "2023-09-26T03:06:58.694Z",
+        "salary_range": "$130,000 - $140,000"
+      }
+    ],
+    "job_application": [
+      {
+        "id": "69cbddbe-a4b4-4cfa-adff-77cf892ee390",
+        "created_at": "2023-09-26T06:04:11.515Z",
+        "updated_at": "2023-09-25T14:02:19.614Z",
+        "application_status": "Submitted"
+      },
+      {
+        "id": "e3310586-a4a1-4034-90b7-53ded360d57a",
+        "created_at": "2023-09-26T05:58:07.763Z",
+        "updated_at": "2023-09-25T20:28:20.258Z",
+        "application_status": "Under Review"
+      },
+      {
+        "id": "9bb18a36-bbf0-495b-90f6-b6e872d598e7",
+        "created_at": "2023-09-25T13:35:51.541Z",
+        "updated_at": "2023-09-25T11:30:34.728Z",
+        "application_status": "Shortlisted"
+      },
+      {
+        "id": "15649065-9621-42c3-8d7f-a9b2ff763bbf",
+        "created_at": "2023-09-25T19:49:21.456Z",
+        "updated_at": "2023-09-25T09:43:11.301Z",
+        "application_status": "Interview Scheduled"
+      },
+      {
+        "id": "f8b0d272-d11a-4ac9-9482-09e0236efe89",
+        "created_at": "2023-09-25T12:20:28.319Z",
+        "updated_at": "2023-09-26T07:22:15.642Z",
+        "application_status": "Rejected"
+      }
+    ],
+    "interview_feedback": [
+      {
+        "id": "596e5933-5b6d-4709-b6b4-ae8f4debbdba",
+        "created_at": "2023-09-25T11:02:07.930Z",
+        "updated_at": "2023-09-25T11:47:51.803Z",
+        "interviewer_comments": "Candidate performed well in technical round"
+      },
+      {
+        "id": "5140d99e-33de-49e5-a8d5-edd074b9e220",
+        "created_at": "2023-09-25T23:17:30.235Z",
+        "updated_at": "2023-09-25T23:25:45.605Z",
+        "interviewer_comments": "Candidate lacked communication skills"
+      },
+      {
+        "id": "c7b12908-a430-4505-9ffe-9b5d08c905ac",
+        "created_at": "2023-09-25T10:01:33.543Z",
+        "updated_at": "2023-09-25T15:04:13.518Z",
+        "interviewer_comments": "Candidate showed great enthusiasm"
+      },
+      {
+        "id": "e7ac1b06-8cf1-40a7-bfe7-87b761e4c0a5",
+        "created_at": "2023-09-26T00:43:20.136Z",
+        "updated_at": "2023-09-26T03:47:26.054Z",
+        "interviewer_comments": "Candidate needs more experience"
+      },
+      {
+        "id": "3c2c109c-08e0-466d-93c5-33d2d2aa5414",
+        "created_at": "2023-09-25T15:45:57.266Z",
+        "updated_at": "2023-09-26T01:21:20.687Z",
+        "interviewer_comments": "Candidate was well-prepared for the interview"
+      }
+    ],
+    "interview": [
+      {
+        "id": "4e8cef56-06b0-496b-b4a8-32faf469a286",
+        "created_at": "2023-09-26T04:29:52.961Z",
+        "updated_at": "2023-09-25T19:36:23.437Z",
+        "interview_feedback": "Positive"
+      },
+      {
+        "id": "5da1546f-72e8-482a-a1dd-7a03cee4557c",
+        "created_at": "2023-09-25T17:26:33.268Z",
+        "updated_at": "2023-09-26T06:39:39.471Z",
+        "interview_feedback": "Negative"
+      },
+      {
+        "id": "40a21a34-542c-42b0-9db3-f80370547aae",
+        "created_at": "2023-09-25T20:52:48.293Z",
+        "updated_at": "2023-09-25T11:48:45.637Z",
+        "interview_feedback": "Neutral"
+      },
+      {
+        "id": "96cb3eb9-989c-460f-8b65-c793aa3b075c",
+        "created_at": "2023-09-25T14:58:15.924Z",
+        "updated_at": "2023-09-26T06:19:53.733Z",
+        "interview_feedback": "Mixed"
+      },
+      {
+        "id": "655495c6-d0f8-4140-b451-d2fc3dce0b3c",
+        "created_at": "2023-09-25T18:28:41.871Z",
+        "updated_at": "2023-09-25T19:28:43.978Z",
+        "interview_feedback": "Strongly Positive"
+      }
+    ],
+    "hiring_manager": [
+      {
+        "id": "a03342d6-e2bb-40a6-bcd2-96b578e6211a",
+        "created_at": "2023-09-26T02:05:57.078Z",
+        "updated_at": "2023-09-26T07:39:06.909Z",
+        "years_of_experience": 38790
+      },
+      {
+        "id": "1fb7816a-3b7d-47f4-a4d1-1a06bd737f94",
+        "created_at": "2023-09-25T16:12:22.982Z",
+        "updated_at": "2023-09-25T11:37:45.195Z",
+        "years_of_experience": 55727
+      },
+      {
+        "id": "1be0d627-1bec-478f-a56e-d3f8dfdbfe5f",
+        "created_at": "2023-09-25T18:14:29.598Z",
+        "updated_at": "2023-09-25T18:58:32.385Z",
+        "years_of_experience": 95836
+      },
+      {
+        "id": "6c1438ba-3c78-484c-a7f6-6e1eb9383d07",
+        "created_at": "2023-09-25T14:21:07.375Z",
+        "updated_at": "2023-09-25T18:44:48.720Z",
+        "years_of_experience": 1606
+      },
+      {
+        "id": "40b64949-6b2e-403b-b6f9-cbc8557a874f",
+        "created_at": "2023-09-25T13:09:21.206Z",
+        "updated_at": "2023-09-25T09:23:36.518Z",
+        "years_of_experience": 11175
+      }
+    ],
+    "candidate_qualifications": [
+      {
+        "id": "3f488806-dcc3-4562-b8ee-dbd23b06f4aa",
+        "created_at": "2023-09-25T12:13:49.954Z",
+        "updated_at": "2023-09-25T08:55:03.929Z"
+      },
+      {
+        "id": "3e1e247e-aa0c-4857-9c2b-2bc5dde56f68",
+        "created_at": "2023-09-26T03:53:57.601Z",
+        "updated_at": "2023-09-26T07:04:07.925Z"
+      },
+      {
+        "id": "12e965b7-4cbd-4111-8260-d6532de5a47c",
+        "created_at": "2023-09-25T14:44:05.105Z",
+        "updated_at": "2023-09-26T00:38:10.869Z"
+      },
+      {
+        "id": "ea80db3e-987a-4bbb-892c-945d8d0dd2c5",
+        "created_at": "2023-09-25T17:04:18.926Z",
+        "updated_at": "2023-09-25T18:28:32.144Z"
+      },
+      {
+        "id": "34f27f73-6d87-42df-aa65-8b9b9e9eef84",
+        "created_at": "2023-09-26T01:00:45.314Z",
+        "updated_at": "2023-09-25T20:43:31.682Z"
+      }
+    ],
+    "candidate_experience": [
+      {
+        "id": "c53fb57a-d831-4a06-8215-1240acd93501",
+        "created_at": "2023-09-26T00:29:16.029Z",
+        "updated_at": "2023-09-25T17:30:36.592Z"
+      },
+      {
+        "id": "f911ba72-34ce-4efc-9359-24115712074b",
+        "created_at": "2023-09-26T06:44:28.669Z",
+        "updated_at": "2023-09-25T17:15:14.567Z"
+      },
+      {
+        "id": "17a5de10-ca0f-4377-97c5-760e9364bb24",
+        "created_at": "2023-09-25T11:56:30.322Z",
+        "updated_at": "2023-09-26T03:49:22.892Z"
+      },
+      {
+        "id": "66c0a191-cb1e-4558-a027-76172c7265c6",
+        "created_at": "2023-09-26T05:31:51.899Z",
+        "updated_at": "2023-09-25T21:50:03.964Z"
+      },
+      {
+        "id": "c2ad97a1-15c5-4932-a4ad-50cba69ba4cc",
+        "created_at": "2023-09-26T00:38:56.922Z",
+        "updated_at": "2023-09-25T20:48:24.222Z"
+      }
+    ],
+    "candidate": [
+      {
+        "id": "b02427de-83cc-432f-bc3a-1088124dbb8a",
+        "created_at": "2023-09-25T18:14:17.270Z",
+        "updated_at": "2023-09-25T08:17:35.129Z",
+        "previous_experience": "3 years of software development",
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "mobile": "123-456-7890"
+      },
+      {
+        "id": "e9fef16a-15dd-4d00-8605-ab79a99776cf",
+        "created_at": "2023-09-26T03:30:35.033Z",
+        "updated_at": "2023-09-25T18:51:55.884Z",
+        "previous_experience": "5 years of marketing",
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "mobile": "987-654-3210"
+      },
+      {
+        "id": "25753e62-d65c-4769-908c-fbcdfc1ff0a7",
+        "created_at": "2023-09-25T21:04:11.682Z",
+        "updated_at": "2023-09-26T00:04:32.347Z",
+        "previous_experience": "2 years of finance",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "mobile": "555-123-4567"
+      },
+      {
+        "id": "859eca3e-3285-4b3a-be73-4bb67d3532ea",
+        "created_at": "2023-09-25T17:05:01.034Z",
+        "updated_at": "2023-09-25T19:51:51.361Z",
+        "previous_experience": "8 years of sales",
+        "name": "Sarah Jones",
+        "email": "sarah.jones@example.com",
+        "mobile": "888-555-1234"
+      },
+      {
+        "id": "fcef9021-22bb-425d-a9d0-a98a518730c9",
+        "created_at": "2023-09-26T06:00:47.991Z",
+        "updated_at": "2023-09-25T13:41:46.180Z",
+        "previous_experience": "10 years of human resources",
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "mobile": "999-888-7777"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9f707eac-a821-4dc3-9373-fb77285c5946",
+        "email": "Matteo37@roq.tech",
+        "firstName": "Marian",
+        "lastName": "Grant",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55405477",
+        "tenantId": null
+      },
+      {
+        "reference": "a0667280-5d02-4eaa-8a80-d768eefad9bf",
+        "email": "Jayson99@roq.tech",
+        "firstName": "Kendrick",
+        "lastName": "Keebler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41585268",
+        "tenantId": null
+      },
+      {
+        "reference": "53383e72-6729-4295-88a7-1b28a7097146",
+        "email": "Eloisa_Gislason54@roq.tech",
+        "firstName": "Lottie",
+        "lastName": "Schaefer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16719468",
+        "tenantId": null
+      },
+      {
+        "reference": "5026313e-f1a6-4cee-93f7-ce8d43cf2588",
+        "email": "Jenifer_Hilpert-Mayer@roq.tech",
+        "firstName": "Darrion",
+        "lastName": "Rohan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/310.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "245cca0d-00d5-427b-8c99-ec5f08441562",
+        "email": "Keenan_Littel@roq.tech",
+        "firstName": "Ford",
+        "lastName": "Brekke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/611.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skills": [
+      {
+        "id": "b697e6e4-c5b1-497c-9b83-d74794acd1fb",
+        "created_at": "2023-09-26T07:24:38.913Z",
+        "updated_at": "2023-09-26T03:48:56.007Z"
+      },
+      {
+        "id": "521c7b19-6bd2-4b15-a96b-e62aebd8c45a",
+        "created_at": "2023-09-25T21:52:46.946Z",
+        "updated_at": "2023-09-25T12:56:22.772Z"
+      },
+      {
+        "id": "331aa23a-7653-4dcb-952e-60008e997358",
+        "created_at": "2023-09-25T11:03:21.230Z",
+        "updated_at": "2023-09-26T01:44:20.049Z"
+      },
+      {
+        "id": "0188b7f8-6c7b-44fe-a88d-162f4d54d36c",
+        "created_at": "2023-09-25T17:08:26.672Z",
+        "updated_at": "2023-09-26T04:11:59.708Z"
+      },
+      {
+        "id": "b297e6f9-93c6-4bad-a8f6-774844ba3f26",
+        "created_at": "2023-09-25T23:10:47.056Z",
+        "updated_at": "2023-09-25T11:04:27.438Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "1b03706a-5993-449a-a053-4631bdaa6bfc",
+        "created_at": "2023-09-25T23:24:22.460Z",
+        "updated_at": "2023-09-25T08:24:18.031Z",
+        "process_efficiency_score": 0.13698557089082897
+      },
+      {
+        "id": "d200ac53-dfb9-4f26-8a68-aa9c326e6ff2",
+        "created_at": "2023-09-26T06:42:27.145Z",
+        "updated_at": "2023-09-25T20:43:27.008Z",
+        "process_efficiency_score": 0.9423970959614962
+      },
+      {
+        "id": "07598205-59b4-456f-baf3-419dab13ac88",
+        "created_at": "2023-09-25T16:20:41.204Z",
+        "updated_at": "2023-09-25T08:56:12.058Z",
+        "process_efficiency_score": 0.5890065843705088
+      },
+      {
+        "id": "b954b9ea-4b3b-439c-a18b-7d6a57551694",
+        "created_at": "2023-09-26T02:12:17.031Z",
+        "updated_at": "2023-09-25T22:52:14.730Z",
+        "process_efficiency_score": 0.5006219604983926
+      },
+      {
+        "id": "6773faf9-7810-4005-b771-24c050ec59c8",
+        "created_at": "2023-09-25T13:28:13.088Z",
+        "updated_at": "2023-09-25T16:44:08.960Z",
+        "process_efficiency_score": 0.11987221124581993
+      }
+    ],
+    "job_opening": [
+      {
+        "id": "464ad4ec-fecd-4ada-a57a-21e6cedf8a5b",
+        "created_at": "2023-09-25T15:44:13.805Z",
+        "updated_at": "2023-09-25T14:37:33.252Z",
+        "salary_range": "$50,000 - $60,000"
+      },
+      {
+        "id": "b8cbe886-cb1d-4b5b-90a9-262ef8d74962",
+        "created_at": "2023-09-25T18:57:22.863Z",
+        "updated_at": "2023-09-25T13:50:03.320Z",
+        "salary_range": "$70,000 - $80,000"
+      },
+      {
+        "id": "5e653e9f-6ad0-4397-8412-62dde948bb01",
+        "created_at": "2023-09-25T14:32:27.072Z",
+        "updated_at": "2023-09-25T18:18:52.551Z",
+        "salary_range": "$90,000 - $100,000"
+      },
+      {
+        "id": "ac33c47d-a741-4335-81e0-bb3daac7a195",
+        "created_at": "2023-09-26T00:16:45.755Z",
+        "updated_at": "2023-09-26T03:08:37.276Z",
+        "salary_range": "$110,000 - $120,000"
+      },
+      {
+        "id": "3ba8e493-47c4-44f8-941a-4adee82a2166",
+        "created_at": "2023-09-25T22:02:18.857Z",
+        "updated_at": "2023-09-25T20:17:43.251Z",
+        "salary_range": "$130,000 - $140,000"
+      }
+    ],
+    "job_application": [
+      {
+        "id": "3d7fe059-10ca-4c74-97d1-e170fcf81806",
+        "created_at": "2023-09-25T08:20:55.996Z",
+        "updated_at": "2023-09-25T22:29:58.278Z",
+        "application_status": "Pending"
+      },
+      {
+        "id": "379ed61b-08d3-42bb-be3f-0c92cd70519d",
+        "created_at": "2023-09-25T16:24:48.116Z",
+        "updated_at": "2023-09-25T19:06:25.583Z",
+        "application_status": "Reviewed"
+      },
+      {
+        "id": "ebf72cfb-2257-403a-a921-759d35e8c941",
+        "created_at": "2023-09-25T23:14:08.155Z",
+        "updated_at": "2023-09-26T03:34:37.720Z",
+        "application_status": "Shortlisted"
+      },
+      {
+        "id": "bde62ad3-3d39-41ff-9259-c7a45b70815d",
+        "created_at": "2023-09-26T05:06:05.646Z",
+        "updated_at": "2023-09-26T02:04:02.135Z",
+        "application_status": "Interview Scheduled"
+      },
+      {
+        "id": "de8836d5-ab91-401b-8cf1-2b856741209f",
+        "created_at": "2023-09-25T22:16:03.538Z",
+        "updated_at": "2023-09-25T18:24:54.820Z",
+        "application_status": "Rejected"
+      }
+    ],
+    "interview_feedback": [
+      {
+        "id": "eba802e8-9bcd-495b-abd2-5240d2c10306",
+        "created_at": "2023-09-25T16:30:51.212Z",
+        "updated_at": "2023-09-25T20:29:49.915Z",
+        "interviewer_comments": "Candidate performed well in technical round"
+      },
+      {
+        "id": "af18cffe-3aa5-408a-82ac-170d66a60636",
+        "created_at": "2023-09-26T07:06:18.314Z",
+        "updated_at": "2023-09-26T06:20:47.685Z",
+        "interviewer_comments": "Candidate lacked communication skills"
+      },
+      {
+        "id": "35bf8c1b-98b8-4013-b56e-53e39ef0921d",
+        "created_at": "2023-09-25T13:10:37.808Z",
+        "updated_at": "2023-09-26T02:27:09.613Z",
+        "interviewer_comments": "Candidate showed great enthusiasm"
+      },
+      {
+        "id": "51e93da6-6417-442f-8458-f2886577d814",
+        "created_at": "2023-09-25T21:44:26.040Z",
+        "updated_at": "2023-09-25T23:25:48.278Z",
+        "interviewer_comments": "Candidate needs to improve problem-solving abilities"
+      },
+      {
+        "id": "8b79e828-db7d-44d5-9ad5-ac2fff7aa0bf",
+        "created_at": "2023-09-26T06:47:05.450Z",
+        "updated_at": "2023-09-26T01:45:36.387Z",
+        "interviewer_comments": "Candidate had excellent domain knowledge"
+      }
+    ],
+    "interview": [
+      {
+        "id": "4e3b4de5-5546-41c7-a6bb-9b858942dc9c",
+        "created_at": "2023-09-25T20:13:52.578Z",
+        "updated_at": "2023-09-25T08:04:55.503Z",
+        "interview_feedback": "Candidate performed well in technical round"
+      },
+      {
+        "id": "f4750553-786c-40ea-8d5f-33c88ae55dc2",
+        "created_at": "2023-09-25T18:13:52.667Z",
+        "updated_at": "2023-09-25T14:06:34.496Z",
+        "interview_feedback": "Candidate lacked communication skills"
+      },
+      {
+        "id": "83ff726e-f075-4068-a093-45da65827dbd",
+        "created_at": "2023-09-25T17:31:11.976Z",
+        "updated_at": "2023-09-26T06:05:22.728Z",
+        "interview_feedback": "Candidate showed great enthusiasm"
+      },
+      {
+        "id": "b19fe078-1300-432f-9154-b6138e795edc",
+        "created_at": "2023-09-26T02:35:12.018Z",
+        "updated_at": "2023-09-25T13:32:14.031Z",
+        "interview_feedback": "Candidate needs to improve problem-solving abilities"
+      },
+      {
+        "id": "cb117074-8aec-40bb-8bb4-20ecab7011b3",
+        "created_at": "2023-09-25T18:46:32.059Z",
+        "updated_at": "2023-09-26T07:23:56.209Z",
+        "interview_feedback": "Candidate had excellent domain knowledge"
+      }
+    ],
+    "hiring_manager": [
+      {
+        "id": "b339c37d-4037-4cdc-8a4c-84b1f42560ea",
+        "created_at": "2023-09-25T20:25:24.339Z",
+        "updated_at": "2023-09-25T11:03:36.476Z",
+        "years_of_experience": 21198
+      },
+      {
+        "id": "cac08eb2-8c5b-4c7c-9ed4-dfd6b5248176",
+        "created_at": "2023-09-25T20:34:14.483Z",
+        "updated_at": "2023-09-25T15:24:22.331Z",
+        "years_of_experience": 38269
+      },
+      {
+        "id": "9ca3b7e2-a019-4c5f-8a56-2aef4b42b237",
+        "created_at": "2023-09-26T01:50:28.297Z",
+        "updated_at": "2023-09-25T21:57:49.564Z",
+        "years_of_experience": 6402
+      },
+      {
+        "id": "ad9195de-cae7-43e0-8139-a4863e20d892",
+        "created_at": "2023-09-25T08:37:29.713Z",
+        "updated_at": "2023-09-25T13:53:39.677Z",
+        "years_of_experience": 22181
+      },
+      {
+        "id": "ab227990-42b2-4390-ba67-6887d0c356bf",
+        "created_at": "2023-09-26T07:45:03.940Z",
+        "updated_at": "2023-09-25T20:58:22.856Z",
+        "years_of_experience": 4163
+      }
+    ],
+    "candidate_qualifications": [
+      {
+        "id": "ede39d9b-4467-44d1-8934-e9c0b67ba686",
+        "created_at": "2023-09-25T13:21:18.191Z",
+        "updated_at": "2023-09-25T20:14:06.324Z"
+      },
+      {
+        "id": "18ff2aa0-448e-4d99-8d7d-75656685cb36",
+        "created_at": "2023-09-26T04:07:07.758Z",
+        "updated_at": "2023-09-25T21:52:33.424Z"
+      },
+      {
+        "id": "9c9f8479-7437-4545-b546-b4efc8ad6b40",
+        "created_at": "2023-09-26T05:04:10.096Z",
+        "updated_at": "2023-09-25T09:34:03.698Z"
+      },
+      {
+        "id": "746cdbbe-09a9-4275-a8d7-e1382f271f70",
+        "created_at": "2023-09-25T13:55:03.497Z",
+        "updated_at": "2023-09-26T05:57:15.684Z"
+      },
+      {
+        "id": "b66dcb92-b6ec-406e-b676-761b6404074d",
+        "created_at": "2023-09-25T14:00:47.728Z",
+        "updated_at": "2023-09-25T14:04:40.142Z"
+      }
+    ],
+    "candidate_experience": [
+      {
+        "id": "ede6e313-4d37-489e-aa10-6ca0339ffe3c",
+        "created_at": "2023-09-25T21:31:45.508Z",
+        "updated_at": "2023-09-25T08:17:49.677Z"
+      },
+      {
+        "id": "58a97e1a-f390-4601-a55a-d2ca7d8e0d5f",
+        "created_at": "2023-09-25T15:54:10.984Z",
+        "updated_at": "2023-09-25T11:55:41.294Z"
+      },
+      {
+        "id": "0e610460-b0a0-436f-b8a0-d7c76d962568",
+        "created_at": "2023-09-26T04:43:09.804Z",
+        "updated_at": "2023-09-26T03:55:19.093Z"
+      },
+      {
+        "id": "0ec59f1d-1672-494e-a4f5-7ff99e27b0d2",
+        "created_at": "2023-09-26T01:14:04.565Z",
+        "updated_at": "2023-09-25T09:23:23.186Z"
+      },
+      {
+        "id": "3b48899a-51f4-4d17-84e8-64eebd1daca9",
+        "created_at": "2023-09-26T07:34:00.359Z",
+        "updated_at": "2023-09-26T04:41:50.202Z"
+      }
+    ],
+    "candidate": [
+      {
+        "id": "04b63095-7ee7-4545-8d9d-b93ca5891966",
+        "created_at": "2023-09-25T20:55:16.284Z",
+        "updated_at": "2023-09-26T03:04:52.387Z",
+        "previous_experience": "5 years in software development",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "1234567890"
+      },
+      {
+        "id": "2d08bc58-5370-4b56-b8f5-e77f5ede02e7",
+        "created_at": "2023-09-25T16:18:25.083Z",
+        "updated_at": "2023-09-25T08:39:03.635Z",
+        "previous_experience": "3 years in marketing",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "mobile": "9876543210"
+      },
+      {
+        "id": "f1803541-5bb3-4a58-b8f4-c23264d46e79",
+        "created_at": "2023-09-25T08:35:46.138Z",
+        "updated_at": "2023-09-25T13:14:48.767Z",
+        "previous_experience": "8 years in finance",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "mobile": "5555555555"
+      },
+      {
+        "id": "5a0ec229-ad1c-49cd-a257-5c3f5d240ce6",
+        "created_at": "2023-09-26T01:13:38.582Z",
+        "updated_at": "2023-09-25T13:15:05.838Z",
+        "previous_experience": "2 years in human resources",
+        "name": "Sarah Wilson",
+        "email": "sarah.wilson@example.com",
+        "mobile": "9999999999"
+      },
+      {
+        "id": "f651aa52-a411-408e-a414-738e3897e593",
+        "created_at": "2023-09-25T15:12:24.137Z",
+        "updated_at": "2023-09-26T06:11:52.078Z",
+        "previous_experience": "6 years in sales",
+        "name": "David Johnson",
+        "email": "david.johnson@example.com",
+        "mobile": "7777777777"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "be99e9b5-7e3a-47ab-8832-125d608bbaca",
+        "email": "Jadon87@roq.tech",
+        "firstName": "Eliza",
+        "lastName": "Parisian-Rolfson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78834663",
+        "tenantId": null
+      },
+      {
+        "reference": "e88a5cb5-8438-4fe1-9a65-4dbfcba4e229",
+        "email": "Ericka72@roq.tech",
+        "firstName": "Ethel",
+        "lastName": "Donnelly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/638.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c584fbd2-5805-48ea-a360-0c56a2b4e042",
+        "email": "Waylon.Aufderhar-Larkin74@roq.tech",
+        "firstName": "Charity",
+        "lastName": "Botsford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78898321",
+        "tenantId": null
+      },
+      {
+        "reference": "aed9de57-9017-4641-98c6-b16aacbd3075",
+        "email": "Yadira_Wehner@roq.tech",
+        "firstName": "Nicole",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73114564",
+        "tenantId": null
+      },
+      {
+        "reference": "277c176a-f378-4ec0-aa68-0508d6109ebd",
+        "email": "Ilene87@roq.tech",
+        "firstName": "Wilfrid",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/23.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skills": [
+      {
+        "id": "e591ee92-3e29-47ab-a197-a37e22d0dfec",
+        "created_at": "2023-09-25T16:27:24.428Z",
+        "updated_at": "2023-09-25T08:47:15.155Z"
+      },
+      {
+        "id": "aaab8cc9-9c06-4848-b68a-31cee960788e",
+        "created_at": "2023-09-25T10:13:24.490Z",
+        "updated_at": "2023-09-26T00:56:16.903Z"
+      },
+      {
+        "id": "f70d054a-c086-4586-9032-797a42892451",
+        "created_at": "2023-09-26T06:29:49.400Z",
+        "updated_at": "2023-09-26T06:32:11.440Z"
+      },
+      {
+        "id": "faa4ec69-b52b-470c-b6e0-5230a8f47b63",
+        "created_at": "2023-09-25T17:41:37.650Z",
+        "updated_at": "2023-09-25T08:48:04.227Z"
+      },
+      {
+        "id": "988ae212-e753-4772-b114-9acbf825336d",
+        "created_at": "2023-09-25T22:26:04.369Z",
+        "updated_at": "2023-09-25T15:40:05.029Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "54894ca0-0d89-452a-b30f-b23f1f8f79e4",
+        "created_at": "2023-09-26T01:09:10.405Z",
+        "updated_at": "2023-09-25T16:53:05.560Z",
+        "process_efficiency_score": 0.0011034586932510138
+      },
+      {
+        "id": "90bb247b-d887-46c9-abf2-8f1930fbed80",
+        "created_at": "2023-09-25T23:09:19.334Z",
+        "updated_at": "2023-09-25T10:53:34.663Z",
+        "process_efficiency_score": 0.4015176084358245
+      },
+      {
+        "id": "be425384-02d0-40cf-9513-8a7b0e02ee55",
+        "created_at": "2023-09-25T10:33:57.582Z",
+        "updated_at": "2023-09-25T22:08:18.295Z",
+        "process_efficiency_score": 0.1407504400704056
+      },
+      {
+        "id": "52e3d8aa-869d-4e76-aa44-74c3da6e1739",
+        "created_at": "2023-09-25T09:23:06.566Z",
+        "updated_at": "2023-09-25T21:03:31.544Z",
+        "process_efficiency_score": 0.3317297336179763
+      },
+      {
+        "id": "082478e4-0934-4cc9-8f6b-7123f59c88d1",
+        "created_at": "2023-09-26T06:42:49.233Z",
+        "updated_at": "2023-09-25T10:57:44.626Z",
+        "process_efficiency_score": 0.9012488403823227
+      }
+    ],
+    "job_opening": [
+      {
+        "id": "31385ce2-9459-441c-8283-eb8325932d0a",
+        "created_at": "2023-09-25T10:04:42.475Z",
+        "updated_at": "2023-09-25T16:45:38.726Z",
+        "salary_range": "$50,000 - $60,000"
+      },
+      {
+        "id": "2140764f-089c-4902-8af9-65a27c398611",
+        "created_at": "2023-09-25T19:26:22.580Z",
+        "updated_at": "2023-09-25T22:43:14.221Z",
+        "salary_range": "$70,000 - $80,000"
+      },
+      {
+        "id": "1bf2671b-fc15-4c6b-a2ce-c27d313ded77",
+        "created_at": "2023-09-25T23:46:30.564Z",
+        "updated_at": "2023-09-25T12:11:09.333Z",
+        "salary_range": "$90,000 - $100,000"
+      },
+      {
+        "id": "905d708b-8d08-46d2-bdb6-18a32b01db1c",
+        "created_at": "2023-09-26T05:43:31.362Z",
+        "updated_at": "2023-09-25T21:47:20.389Z",
+        "salary_range": "$110,000 - $120,000"
+      },
+      {
+        "id": "17605f49-e2e3-41d6-8f1a-1050be0565e6",
+        "created_at": "2023-09-25T22:33:51.459Z",
+        "updated_at": "2023-09-26T05:38:37.167Z",
+        "salary_range": "$130,000 - $140,000"
+      }
+    ],
+    "job_application": [
+      {
+        "id": "43938b98-42d6-4b7b-b930-412a6cbc26e4",
+        "created_at": "2023-09-25T17:30:27.112Z",
+        "updated_at": "2023-09-25T10:06:26.021Z",
+        "application_status": "Submitted"
+      },
+      {
+        "id": "4300be7a-1eec-4293-a874-1ae7f84c18ea",
+        "created_at": "2023-09-25T10:01:19.086Z",
+        "updated_at": "2023-09-25T23:28:52.766Z",
+        "application_status": "Under Review"
+      },
+      {
+        "id": "85f5ad99-7ed0-4de8-b4bb-a730c024f33e",
+        "created_at": "2023-09-25T09:43:23.432Z",
+        "updated_at": "2023-09-25T13:59:08.742Z",
+        "application_status": "Shortlisted"
+      },
+      {
+        "id": "55188894-522c-4723-aaef-0c8bb5414a8b",
+        "created_at": "2023-09-26T02:07:01.834Z",
+        "updated_at": "2023-09-25T08:28:52.767Z",
+        "application_status": "Interview Scheduled"
+      },
+      {
+        "id": "e2ea28f0-2c5e-422e-9ac0-dab6abd2b816",
+        "created_at": "2023-09-25T12:01:13.639Z",
+        "updated_at": "2023-09-25T23:10:10.972Z",
+        "application_status": "Rejected"
+      }
+    ],
+    "interview_feedback": [
+      {
+        "id": "c4f4dd43-50f3-40a0-b519-4d769240cc5e",
+        "created_at": "2023-09-26T04:11:00.486Z",
+        "updated_at": "2023-09-25T09:02:50.944Z",
+        "interviewer_comments": "Strong technical skills"
+      },
+      {
+        "id": "f47ecbdc-2765-4f86-8c3e-db79bf8214d1",
+        "created_at": "2023-09-25T22:46:40.531Z",
+        "updated_at": "2023-09-25T18:47:21.691Z",
+        "interviewer_comments": "Excellent communication"
+      },
+      {
+        "id": "c64f74a6-fbd6-4aa6-ba45-fe0fd548393e",
+        "created_at": "2023-09-25T19:40:53.545Z",
+        "updated_at": "2023-09-26T03:40:39.430Z",
+        "interviewer_comments": "Lacks experience in XYZ"
+      },
+      {
+        "id": "89a5b9b7-5547-4e6e-968c-d35c554d5fde",
+        "created_at": "2023-09-25T09:32:46.575Z",
+        "updated_at": "2023-09-26T05:19:49.528Z",
+        "interviewer_comments": "Impressive problem-solving abilities"
+      },
+      {
+        "id": "b54fe87d-e64d-4b4a-8caa-d84b671ecbbf",
+        "created_at": "2023-09-26T07:20:04.045Z",
+        "updated_at": "2023-09-26T03:02:49.346Z",
+        "interviewer_comments": "Needs improvement in teamwork"
+      }
+    ],
+    "interview": [
+      {
+        "id": "6f2c20e0-665d-4288-a11d-b2258c5876cb",
+        "created_at": "2023-09-26T06:30:20.115Z",
+        "updated_at": "2023-09-25T13:24:04.613Z",
+        "interview_feedback": "Strong candidate"
+      },
+      {
+        "id": "eae1b9aa-3986-4e41-97f7-fbd9ee8f4df9",
+        "created_at": "2023-09-25T19:58:37.778Z",
+        "updated_at": "2023-09-25T12:51:17.094Z",
+        "interview_feedback": "Average performance"
+      },
+      {
+        "id": "8db4a08f-c5d7-4941-a717-4a3a5944995d",
+        "created_at": "2023-09-26T05:07:19.451Z",
+        "updated_at": "2023-09-25T17:05:47.903Z",
+        "interview_feedback": "Not a good fit"
+      },
+      {
+        "id": "7a7453da-fe4a-47e4-811e-b439413b8685",
+        "created_at": "2023-09-25T20:25:51.975Z",
+        "updated_at": "2023-09-25T11:39:48.388Z",
+        "interview_feedback": "Promising potential"
+      },
+      {
+        "id": "e1536c35-6955-4743-9e62-08362a560f9c",
+        "created_at": "2023-09-25T19:43:06.804Z",
+        "updated_at": "2023-09-26T04:57:36.227Z",
+        "interview_feedback": "Requires further assessment"
+      }
+    ],
+    "hiring_manager": [
+      {
+        "id": "c3e499a2-9d0b-4e44-91ea-68fd8c1fafa6",
+        "created_at": "2023-09-25T18:19:13.979Z",
+        "updated_at": "2023-09-26T00:00:12.217Z",
+        "years_of_experience": 43087
+      },
+      {
+        "id": "e72a48f8-61c2-48fc-bed9-23b3d14dde97",
+        "created_at": "2023-09-26T04:08:11.941Z",
+        "updated_at": "2023-09-25T23:39:09.685Z",
+        "years_of_experience": 3212
+      },
+      {
+        "id": "de112d87-c1cd-4a41-8ea0-9d5d69ed40bc",
+        "created_at": "2023-09-26T01:56:24.869Z",
+        "updated_at": "2023-09-25T09:26:22.406Z",
+        "years_of_experience": 15471
+      },
+      {
+        "id": "828c70f9-2cfb-44d4-b476-2629c0b8543a",
+        "created_at": "2023-09-26T04:11:11.873Z",
+        "updated_at": "2023-09-25T13:18:10.022Z",
+        "years_of_experience": 19887
+      },
+      {
+        "id": "e919f228-2629-4b6c-a6aa-c5be2b7b2280",
+        "created_at": "2023-09-25T19:57:43.754Z",
+        "updated_at": "2023-09-25T16:05:42.702Z",
+        "years_of_experience": 24285
+      }
+    ],
+    "candidate_qualifications": [
+      {
+        "id": "b9835775-2535-498b-9a82-ef42b33a94b8",
+        "created_at": "2023-09-25T12:17:29.990Z",
+        "updated_at": "2023-09-25T08:16:57.878Z"
+      },
+      {
+        "id": "3ddc9134-905f-46cf-a80c-b11a61c376bd",
+        "created_at": "2023-09-25T23:59:00.224Z",
+        "updated_at": "2023-09-25T14:32:40.592Z"
+      },
+      {
+        "id": "9fde612f-a880-4add-b582-c42c03ab77ca",
+        "created_at": "2023-09-25T20:01:05.095Z",
+        "updated_at": "2023-09-25T22:33:32.853Z"
+      },
+      {
+        "id": "6792a505-d963-455b-8ad0-9deb8e9ebfcd",
+        "created_at": "2023-09-25T07:56:13.618Z",
+        "updated_at": "2023-09-25T23:42:45.439Z"
+      },
+      {
+        "id": "02b8252a-2195-4925-ad86-935d38cbcca1",
+        "created_at": "2023-09-25T15:36:36.586Z",
+        "updated_at": "2023-09-26T07:05:14.137Z"
+      }
+    ],
+    "candidate_experience": [
+      {
+        "id": "683dd9be-34eb-43e3-a53d-9afa31e58490",
+        "created_at": "2023-09-26T01:47:50.848Z",
+        "updated_at": "2023-09-25T17:28:29.870Z"
+      },
+      {
+        "id": "87c25710-e55c-40b2-aff4-eb316374195f",
+        "created_at": "2023-09-25T19:49:48.196Z",
+        "updated_at": "2023-09-25T23:21:31.901Z"
+      },
+      {
+        "id": "d18d1ee1-51f0-47f6-84df-8af0b2853fc9",
+        "created_at": "2023-09-26T04:02:35.858Z",
+        "updated_at": "2023-09-26T01:12:32.728Z"
+      },
+      {
+        "id": "4b740b0b-dfd3-4e3f-b29e-1be063b8cfab",
+        "created_at": "2023-09-26T04:49:21.654Z",
+        "updated_at": "2023-09-25T16:26:06.316Z"
+      },
+      {
+        "id": "724b5125-4109-4ae3-a775-1f97b82e721e",
+        "created_at": "2023-09-25T15:25:03.956Z",
+        "updated_at": "2023-09-26T01:52:17.782Z"
+      }
+    ],
+    "candidate": [
+      {
+        "id": "cc53cbe2-712c-4799-832d-056cb47ef40d",
+        "created_at": "2023-09-26T00:54:16.585Z",
+        "updated_at": "2023-09-26T01:42:27.417Z",
+        "previous_experience": "5 years in software development",
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "mobile": "123-456-7890"
+      },
+      {
+        "id": "7a5f1698-446a-47ab-be88-eb6e5eb83b41",
+        "created_at": "2023-09-25T16:42:54.184Z",
+        "updated_at": "2023-09-25T15:42:08.296Z",
+        "previous_experience": "3 years in marketing",
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "mobile": "987-654-3210"
+      },
+      {
+        "id": "ccc3d921-743d-4aa9-865d-554c08f001bb",
+        "created_at": "2023-09-26T01:31:21.465Z",
+        "updated_at": "2023-09-26T02:18:20.516Z",
+        "previous_experience": "10 years in finance",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "mobile": "555-123-4567"
+      },
+      {
+        "id": "da4d7650-ea31-49e2-8f59-765be7d0ee4c",
+        "created_at": "2023-09-25T22:19:57.477Z",
+        "updated_at": "2023-09-25T17:30:14.316Z",
+        "previous_experience": "2 years in human resources",
+        "name": "Sarah Jones",
+        "email": "sarah.jones@example.com",
+        "mobile": "888-999-0000"
+      },
+      {
+        "id": "e7c8437c-a4f3-4d0b-b0bf-9d041cf41e63",
+        "created_at": "2023-09-25T21:15:40.159Z",
+        "updated_at": "2023-09-25T14:57:43.432Z",
+        "previous_experience": "7 years in sales",
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "mobile": "444-555-6666"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b733d0b4-dfa9-4279-9d57-faa445ca228d",
+        "email": "Georgianna47@roq.tech",
+        "firstName": "Imelda",
+        "lastName": "Baumbach",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91769089",
+        "tenantId": null
+      },
+      {
+        "reference": "d16754c6-b679-47d9-896b-4502084c5a5c",
+        "email": "Vernice99@roq.tech",
+        "firstName": "Lavinia",
+        "lastName": "Koepp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/91825973",
+        "tenantId": null
+      },
+      {
+        "reference": "8bf9a89b-8b72-4f74-8af4-6ef41211c214",
+        "email": "Houston24@roq.tech",
+        "firstName": "Amya",
+        "lastName": "Smith",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19911376",
+        "tenantId": null
+      },
+      {
+        "reference": "716fe4f2-519e-4221-8779-d549323a9a44",
+        "email": "Rodger_Kirlin@roq.tech",
+        "firstName": "Neoma",
+        "lastName": "Rowe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1391780",
+        "tenantId": null
+      },
+      {
+        "reference": "af4827ee-1061-44d7-8c69-87f75d87477e",
+        "email": "Jacques.Tremblay@roq.tech",
+        "firstName": "Deron",
+        "lastName": "Hermiston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85878665",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "skills": [
+      {
+        "id": "13920994-c7b6-4bbc-a340-9947f480b5be",
+        "created_at": "2023-09-25T13:06:14.548Z",
+        "updated_at": "2023-09-26T04:35:28.478Z"
+      },
+      {
+        "id": "45cbe914-0732-477c-913d-fa3c963af678",
+        "created_at": "2023-09-25T13:39:50.656Z",
+        "updated_at": "2023-09-26T03:55:43.829Z"
+      },
+      {
+        "id": "7adc741d-9376-41fb-8264-21023f337a54",
+        "created_at": "2023-09-25T14:54:30.354Z",
+        "updated_at": "2023-09-25T09:25:53.883Z"
+      },
+      {
+        "id": "3c78bc7d-d558-473e-9ca4-50d4c4f925a3",
+        "created_at": "2023-09-25T21:27:09.631Z",
+        "updated_at": "2023-09-25T20:45:12.211Z"
+      },
+      {
+        "id": "620e164b-3d3e-4ac7-9e61-6a43d2edf1df",
+        "created_at": "2023-09-25T10:59:58.161Z",
+        "updated_at": "2023-09-25T22:03:51.414Z"
+      }
+    ],
+    "recruitment_process": [
+      {
+        "id": "01bdb176-31c3-4a44-be3e-2a537949ecd1",
+        "created_at": "2023-09-26T00:33:28.539Z",
+        "updated_at": "2023-09-25T07:54:32.710Z",
+        "process_efficiency_score": 0.99391700909473
+      },
+      {
+        "id": "1c1e0152-039f-4b99-bbee-7b769da9dc1d",
+        "created_at": "2023-09-25T12:33:02.729Z",
+        "updated_at": "2023-09-25T09:24:34.151Z",
+        "process_efficiency_score": 0.576837663538754
+      },
+      {
+        "id": "90cd9c4d-440b-402d-8895-3ed34f999ec6",
+        "created_at": "2023-09-25T10:19:21.003Z",
+        "updated_at": "2023-09-25T23:27:45.839Z",
+        "process_efficiency_score": 0.7319700529333204
+      },
+      {
+        "id": "00e07534-1b1c-492f-9603-53166be7c42b",
+        "created_at": "2023-09-25T10:22:34.806Z",
+        "updated_at": "2023-09-25T14:36:28.202Z",
+        "process_efficiency_score": 0.1297412640415132
+      },
+      {
+        "id": "a29dc8b2-fafe-43fa-9f3e-b06d886b8ce3",
+        "created_at": "2023-09-25T13:09:01.660Z",
+        "updated_at": "2023-09-25T11:11:50.784Z",
+        "process_efficiency_score": 0.9011799301952124
+      }
+    ],
+    "job_opening": [
+      {
+        "id": "10594ce2-157f-4290-bfa6-95996dc8b2ba",
+        "created_at": "2023-09-26T03:13:43.474Z",
+        "updated_at": "2023-09-25T21:54:27.416Z",
+        "salary_range": "$50,000 - $60,000"
+      },
+      {
+        "id": "0d065d2d-a49a-49cb-9719-746329b68ba0",
+        "created_at": "2023-09-25T08:19:08.933Z",
+        "updated_at": "2023-09-25T10:44:09.433Z",
+        "salary_range": "$70,000 - $80,000"
+      },
+      {
+        "id": "e184597c-e8da-4388-a840-e64698b957b0",
+        "created_at": "2023-09-25T21:51:58.570Z",
+        "updated_at": "2023-09-25T19:22:25.373Z",
+        "salary_range": "$90,000 - $100,000"
+      },
+      {
+        "id": "8619bd66-66ad-433a-8ce7-56459eaa6774",
+        "created_at": "2023-09-25T16:57:40.731Z",
+        "updated_at": "2023-09-25T10:54:22.127Z",
+        "salary_range": "$110,000 - $120,000"
+      },
+      {
+        "id": "e65da21f-1ee4-4d5a-bb59-719ef46125e7",
+        "created_at": "2023-09-25T09:11:19.355Z",
+        "updated_at": "2023-09-25T10:00:16.692Z",
+        "salary_range": "$130,000 - $140,000"
+      }
+    ],
+    "job_application": [
+      {
+        "id": "da15c887-627e-42ab-a0c3-51785b689007",
+        "created_at": "2023-09-25T22:13:06.145Z",
+        "updated_at": "2023-09-25T15:49:57.101Z",
+        "application_status": "Submitted"
+      },
+      {
+        "id": "56290f67-65ca-4590-859e-2a053a9df5d9",
+        "created_at": "2023-09-25T15:41:15.942Z",
+        "updated_at": "2023-09-25T16:22:26.147Z",
+        "application_status": "Under Review"
+      },
+      {
+        "id": "46a4272f-e15f-4a94-b900-be1fc44405a7",
+        "created_at": "2023-09-26T04:32:06.504Z",
+        "updated_at": "2023-09-25T23:16:20.489Z",
+        "application_status": "Interview Scheduled"
+      },
+      {
+        "id": "106ea381-843b-473d-9fcc-addded57762a",
+        "created_at": "2023-09-25T14:58:17.446Z",
+        "updated_at": "2023-09-26T05:34:22.923Z",
+        "application_status": "Offer Extended"
+      },
+      {
+        "id": "a156503e-b62a-4af3-95b4-daaa82d61222",
+        "created_at": "2023-09-25T13:30:29.730Z",
+        "updated_at": "2023-09-25T15:43:33.785Z",
+        "application_status": "Rejected"
+      }
+    ],
+    "interview_feedback": [
+      {
+        "id": "57019694-9ed2-4f09-aa43-8000c53f457b",
+        "created_at": "2023-09-25T11:36:46.609Z",
+        "updated_at": "2023-09-26T01:15:44.803Z",
+        "interviewer_comments": "Impressive technical skills"
+      },
+      {
+        "id": "aee9f1d6-1caf-4bc3-b8a0-a62e82382208",
+        "created_at": "2023-09-26T06:39:06.558Z",
+        "updated_at": "2023-09-25T13:27:04.934Z",
+        "interviewer_comments": "Excellent communication"
+      },
+      {
+        "id": "2c041cd4-0661-4ebe-900f-377527a8cbd1",
+        "created_at": "2023-09-25T12:48:31.526Z",
+        "updated_at": "2023-09-25T17:59:40.213Z",
+        "interviewer_comments": "Lacks experience in certain areas"
+      },
+      {
+        "id": "3c96fe27-430b-40fc-be7a-709f03a1a593",
+        "created_at": "2023-09-25T11:38:49.375Z",
+        "updated_at": "2023-09-26T02:01:16.448Z",
+        "interviewer_comments": "Strong problem-solving abilities"
+      },
+      {
+        "id": "ae2c2e20-9697-4e1a-86db-9618add3883a",
+        "created_at": "2023-09-25T09:29:19.196Z",
+        "updated_at": "2023-09-26T07:28:46.539Z",
+        "interviewer_comments": "Needs improvement in teamwork"
+      }
+    ],
+    "interview": [
+      {
+        "id": "58204fbc-3e77-44a6-8ecc-c929e3f0f054",
+        "created_at": "2023-09-25T18:07:19.958Z",
+        "updated_at": "2023-09-25T11:25:23.824Z",
+        "interview_feedback": "Impressive candidate"
+      },
+      {
+        "id": "76dd16a2-14c5-4f57-a3e9-f4afc5d0c684",
+        "created_at": "2023-09-25T20:36:39.776Z",
+        "updated_at": "2023-09-25T12:23:58.386Z",
+        "interview_feedback": "Not a good fit for the role"
+      },
+      {
+        "id": "ea06cdbc-b15c-4057-bb2c-877587579dc0",
+        "created_at": "2023-09-25T13:48:37.662Z",
+        "updated_at": "2023-09-25T20:26:02.999Z",
+        "interview_feedback": "Promising potential"
+      },
+      {
+        "id": "67533364-7115-415c-95be-f6408a1e98ba",
+        "created_at": "2023-09-25T15:48:19.359Z",
+        "updated_at": "2023-09-25T13:09:31.365Z",
+        "interview_feedback": "Strong leadership qualities"
+      },
+      {
+        "id": "97f213c2-1596-48e3-90d7-42153f0348a4",
+        "created_at": "2023-09-25T08:33:32.437Z",
+        "updated_at": "2023-09-25T11:45:41.782Z",
+        "interview_feedback": "Requires further assessment"
+      }
+    ],
+    "hiring_manager": [
+      {
+        "id": "2efa8e7f-f002-4274-80d6-91b8c8ba738b",
+        "created_at": "2023-09-25T22:34:16.221Z",
+        "updated_at": "2023-09-25T15:05:59.152Z",
+        "years_of_experience": 42761
+      },
+      {
+        "id": "f931c551-4b1a-420b-8cf3-beb465a08cb5",
+        "created_at": "2023-09-26T05:59:14.068Z",
+        "updated_at": "2023-09-26T02:32:43.797Z",
+        "years_of_experience": 2240
+      },
+      {
+        "id": "5c438b81-4ff5-44b7-ad02-d5a55669d6c2",
+        "created_at": "2023-09-25T08:25:04.377Z",
+        "updated_at": "2023-09-25T12:47:19.537Z",
+        "years_of_experience": 81877
+      },
+      {
+        "id": "6f4bf8ab-eaaa-431e-8781-e02397f89f48",
+        "created_at": "2023-09-25T10:07:27.991Z",
+        "updated_at": "2023-09-25T20:13:48.282Z",
+        "years_of_experience": 67867
+      },
+      {
+        "id": "463a3c08-7629-434c-9a15-416015d0ec32",
+        "created_at": "2023-09-25T11:26:56.670Z",
+        "updated_at": "2023-09-26T07:20:38.627Z",
+        "years_of_experience": 11730
+      }
+    ],
+    "candidate_qualifications": [
+      {
+        "id": "94cc1122-4709-43fc-850a-a866de237b04",
+        "created_at": "2023-09-25T10:28:04.417Z",
+        "updated_at": "2023-09-25T10:22:24.631Z"
+      },
+      {
+        "id": "79e32b28-128d-43fb-957d-c6f296265540",
+        "created_at": "2023-09-25T07:57:15.506Z",
+        "updated_at": "2023-09-26T03:44:42.806Z"
+      },
+      {
+        "id": "edb86397-7550-4ecc-8e38-bfc6a71c2109",
+        "created_at": "2023-09-25T13:52:31.537Z",
+        "updated_at": "2023-09-25T08:45:05.989Z"
+      },
+      {
+        "id": "8925d8d5-4731-47bf-820e-d6d07b32f94c",
+        "created_at": "2023-09-26T01:45:25.601Z",
+        "updated_at": "2023-09-25T13:07:51.237Z"
+      },
+      {
+        "id": "49a826f3-73b9-4472-b7ae-6d352b40c3d1",
+        "created_at": "2023-09-25T16:28:05.046Z",
+        "updated_at": "2023-09-25T20:42:21.812Z"
+      }
+    ],
+    "candidate_experience": [
+      {
+        "id": "c9bddaac-cc23-46a1-9efd-cfec3c709d80",
+        "created_at": "2023-09-26T07:21:29.344Z",
+        "updated_at": "2023-09-25T15:57:25.375Z"
+      },
+      {
+        "id": "8a628514-36b1-430f-aa7b-9431134d88d7",
+        "created_at": "2023-09-25T19:58:31.442Z",
+        "updated_at": "2023-09-26T04:15:15.136Z"
+      },
+      {
+        "id": "0d312226-9b18-40d1-83b5-af33ad9ab0b0",
+        "created_at": "2023-09-25T08:40:02.407Z",
+        "updated_at": "2023-09-25T18:36:34.776Z"
+      },
+      {
+        "id": "9f3e8631-e809-4405-9ade-714d98d6d9ad",
+        "created_at": "2023-09-26T00:55:03.092Z",
+        "updated_at": "2023-09-25T17:26:49.295Z"
+      },
+      {
+        "id": "52150d81-3896-4065-88d1-71ae78d7f852",
+        "created_at": "2023-09-25T22:14:34.181Z",
+        "updated_at": "2023-09-25T22:17:00.019Z"
+      }
+    ],
+    "candidate": [
+      {
+        "id": "77936976-769e-45c2-b0d4-d6415ed81b36",
+        "created_at": "2023-09-25T21:55:35.392Z",
+        "updated_at": "2023-09-26T05:15:44.967Z",
+        "previous_experience": "5 years of software development",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "1234567890"
+      },
+      {
+        "id": "5eea3ca3-4b18-4dcd-ba25-3c63ee828775",
+        "created_at": "2023-09-25T23:09:43.507Z",
+        "updated_at": "2023-09-26T01:04:23.368Z",
+        "previous_experience": "2 years of marketing experience",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "mobile": "9876543210"
+      },
+      {
+        "id": "17b20d7c-1338-4259-bf4f-90427ce741ea",
+        "created_at": "2023-09-25T16:58:44.089Z",
+        "updated_at": "2023-09-26T00:15:51.086Z",
+        "previous_experience": "10 years of project management",
+        "name": "Michael Brown",
+        "email": "michael.brown@example.com",
+        "mobile": "5555555555"
+      },
+      {
+        "id": "91a96928-00e0-4e98-a48d-e9fbf40f2012",
+        "created_at": "2023-09-25T15:15:33.405Z",
+        "updated_at": "2023-09-26T04:02:20.501Z",
+        "previous_experience": "3 years of sales experience",
+        "name": "Sarah Jones",
+        "email": "sarah.jones@example.com",
+        "mobile": "9999999999"
+      },
+      {
+        "id": "84a32b8b-0656-4723-934f-371ab111364b",
+        "created_at": "2023-09-25T23:13:29.509Z",
+        "updated_at": "2023-09-26T06:43:28.953Z",
+        "previous_experience": "8 years of design background",
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "mobile": "1111111111"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f7b3e544-c085-4706-807f-09c847f89ae7",
+        "email": "Mavis.Labadie@roq.tech",
+        "firstName": "Edwardo",
+        "lastName": "Beahan-Bode",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5436751",
+        "tenantId": null
+      },
+      {
+        "reference": "f756a32f-cd32-4d56-919b-ed79402e8320",
+        "email": "Maxime.Cummerata@roq.tech",
+        "firstName": "Garnet",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2516258",
+        "tenantId": null
+      },
+      {
+        "reference": "79c5c282-40a1-4d16-9fc7-86e29df75890",
+        "email": "Terrill.Gulgowski2@roq.tech",
+        "firstName": "Isobel",
+        "lastName": "Orn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25945401",
+        "tenantId": null
+      },
+      {
+        "reference": "0e16e73e-220e-4ceb-b8be-b0aa99b2b2dd",
+        "email": "Jesse_Lowe@roq.tech",
+        "firstName": "Giovani",
+        "lastName": "Kuvalis",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/291.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f68b3923-3042-449c-a1a2-ac80c468e853",
+        "email": "Molly8@roq.tech",
+        "firstName": "Donato",
+        "lastName": "Weber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8091946",
+        "tenantId": null
+      }
+    ]
+  }
+]
